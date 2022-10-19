@@ -29,7 +29,7 @@ class AuthPage(BaseObject):
         self.equal(expected_text, actual_text)
 
     def successful_login(self):
-        expected_text = 'PRODUCTS'
+        expected_text = 'PRODUCTSS'
         actual_text = self.to_text('css', Locators.TITLE)
         self.equal(expected_text, actual_text)
 

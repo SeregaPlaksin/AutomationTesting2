@@ -1,13 +1,35 @@
-import time
+import pytest
+import allure
+
+@allure.story('Assertion test cases')
+class TestOne:
+    def test_1(self):
+        assert 1 == 1
+
+    def test_2(self):
+        assert 2 == 2
+
+    def test_3(self):
+        assert 3 == 3
 
 
+@allure.label("owner", "Sergey!!")
+@allure.severity(allure.severity_level.BLOCKER)
+@allure.description('Checking successful login')
+@pytest.mark.ui
 def test_successful_login(auth_page):
-    auth_page.enter_correct_username()
-    auth_page.enter_correct_password()
-    auth_page.click_login_button()
-    auth_page.successful_login()
+    with allure.step('input correct username'):
+        auth_page.enter_correct_username()
+    with allure.step('input correct password'):
+        auth_page.enter_correct_password()
+    with allure.step('click login'):
+        auth_page.click_login_button()
+    with allure.step('check successful login'):
+        auth_page.successful_login()
 
 
+
+@pytest.mark.api
 def test_unsuccessful_login(auth_page):
     auth_page.enter_uncorrect_username()
     auth_page.enter_correct_password()
@@ -15,9 +37,8 @@ def test_unsuccessful_login(auth_page):
     auth_page.unsuccessful_login()
 
 
+@pytest.mark.smoke
 def test_logout(auth_page_input_data, main_page):
     main_page.click_main_button()
-    time.sleep(3)
     auth_page_input_data.click_logout_button()
-    time.sleep(3)
     auth_page_input_data.visible_login_button()

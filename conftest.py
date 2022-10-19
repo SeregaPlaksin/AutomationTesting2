@@ -1,9 +1,9 @@
 import pytest
+import allure
 from selenium import webdriver
 from selenium.webdriver.chrome.options import Options as chrome_options
 from selenium.webdriver.chrome.service import Service
 from webdriver_manager.chrome import ChromeDriverManager
-
 
 from pom.index_page import IndexPage, AuthPage
 from pom.main_page import MainButton, Sorted
@@ -33,6 +33,7 @@ def setup(get_webdriver):
     yield driver
     driver.quit()
 
+
 @pytest.fixture(scope='function')
 def setup_auth(get_webdriver):
     driver = get_webdriver
@@ -46,6 +47,7 @@ def setup_auth(get_webdriver):
     yield driver
     driver.quit()
 
+
 @pytest.fixture
 def auth_page(setup):
     yield AuthPage(setup)
@@ -54,6 +56,7 @@ def auth_page(setup):
 @pytest.fixture
 def main_page(setup_auth):
     yield MainButton(setup_auth)
+
 
 @pytest.fixture
 def sort_page(setup_auth):
@@ -65,16 +68,7 @@ def auth_page_input_data(setup_auth):
     yield AuthPage(setup_auth)
 
 
-
-
-
-'''@pytest.fixture
-def main_page(setup):
-    yield MainPage(setup)'''
-
-
-
-'''@pytest.hookimpl(hookwrapper=True, tryfirst=True)
+@pytest.hookimpl(hookwrapper=True, tryfirst=True)
 def pytest_runtest_makereport(item):
     outcome = yield
     rep = outcome.get_result()
@@ -86,4 +80,4 @@ def pytest_runtest_makereport(item):
                               name=item.name,
                               attachment_type=allure.attachment_type.PNG)
             except Exception as e:
-                print(e)'''
+                print(e)

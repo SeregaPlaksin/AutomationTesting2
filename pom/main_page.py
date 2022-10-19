@@ -1,5 +1,6 @@
 from base_object.base import BaseObject
 from base_object.locators import Locators
+from base_object.helper import Helper
 
 
 class MainButton(BaseObject):
@@ -35,7 +36,7 @@ class Basket(BaseObject):
         self.equal(expected_text, actual_text)
 
 
-class Sorted(BaseObject):
+class Sorted(BaseObject, Helper):
 
     def __init__(self, driver):
         super().__init__(driver)
@@ -46,11 +47,7 @@ class Sorted(BaseObject):
 
     def sort_by_price_lth(self):
         price_object = self.are_visible('css', Locators.INVENTORY_PRICE, Locators.INVENTORY_PRICE)
-        price_list = []
-        for x in price_object:
-            price = x.text
-            price_list.append(price)
-        return price_list
+        return self.generation_list(price_object)
 
     def sort_by_price_lists(self):
         actual_list = self.sort_by_price_lth()

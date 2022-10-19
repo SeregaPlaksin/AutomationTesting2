@@ -13,7 +13,6 @@ class Locators:
     BASKET_CHECKOUT = '.cart_footer .btn.btn_action'
     CHECKOUT = '#checkout'
 
-
     BUTTON_MENU = 'div>.bm-burger-button >button'
     BUTTON_MENU_ALL_ITEMS = '#inventory_sidebar_link'
     SORT_CONTAINER = '.product_sort_container'

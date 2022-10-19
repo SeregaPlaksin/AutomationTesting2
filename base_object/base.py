@@ -1,4 +1,6 @@
 from typing import List
+from utilities.logger import *
+import logging as log
 
 from selenium.webdriver.common.by import By
 from selenium.webdriver.support import expected_conditions as ec
@@ -9,7 +11,9 @@ from selenium.webdriver.remote.webelement import WebElement
 
 
 class BaseObject:
+    log = log_method(logLevel=log.INFO)
     def __init__(self, driver):
+        self.list = []
         self.driver = driver
         self.wait = WebDriverWait(driver, 5)
 
@@ -43,10 +47,8 @@ class BaseObject:
         return self.is_visible(find_by, locator).get_attribute(name_attr)
 
     def to_click(self, find_by, locator):
+        self.log.info('element clicked')
         self.is_clicable(find_by, locator).click()
-
-    def equal(self, expected, actual):
-        assert expected == actual, AssertionErrors.EQUALERROR.format(expected, actual)
 
     def select_dropdown(self, find_by, locator, text):
         dropdown = Select(self.is_visible(find_by, locator))
