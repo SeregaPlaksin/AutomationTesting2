@@ -3,3 +3,4 @@ selenium~=4.4.3
 pytest-rerunfailures
 pytest-html-reporter
 allure-pytest
+webdriver-manager
