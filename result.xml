@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8"?><testsuites><testsuite name="pytest" errors="0" failures="4" skipped="0" tests="8" time="38.666" timestamp="2022-10-19T21:48:02.747203" hostname="NB-100211"><testcase classname="tests.test_auth.TestOne" name="test_1" time="0.038" /><testcase classname="tests.test_auth.TestOne" name="test_2" time="0.001" /><testcase classname="tests.test_auth.TestOne" name="test_3" time="0.003" /><testcase classname="tests.test_auth" name="test_successful_login" time="9.739"><failure message="AttributeError: 'AuthPage' object has no attribute 'equal'">auth_page = &lt;pom.index_page.AuthPage object at 0x000002A31A079810&gt;
+
+    @allure.label("owner", "Sergey!!")
+    @allure.severity(allure.severity_level.BLOCKER)
+    @allure.description('Checking successful login')
+    @pytest.mark.ui
+    def test_successful_login(auth_page):
+        with allure.step('input correct username'):
+            auth_page.enter_correct_username()
+        with allure.step('input correct password'):
+            auth_page.enter_correct_password()
+        with allure.step('click login'):
+            auth_page.click_login_button()
+        with allure.step('check successful login'):
+&gt;           auth_page.successful_login()
+
+tests\test_auth.py:28: 
+_ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _
+
+self = &lt;pom.index_page.AuthPage object at 0x000002A31A079810&gt;
+
+    def successful_login(self):
+        expected_text = 'PRODUCTSS'
+        actual_text = self.to_text('css', Locators.TITLE)
+&gt;       self.equal(expected_text, actual_text)
+E       AttributeError: 'AuthPage' object has no attribute 'equal'
+
+pom\index_page.py:34: AttributeError</failure></testcase><testcase classname="tests.test_auth" name="test_unsuccessful_login" time="8.903"><failure message="AttributeError: 'AuthPage' object has no attribute 'equal'">auth_page = &lt;pom.index_page.AuthPage object at 0x000002A31A07A4D0&gt;
+
+    @pytest.mark.api
+    def test_unsuccessful_login(auth_page):
+        auth_page.enter_uncorrect_username()
+        auth_page.enter_correct_password()
+        auth_page.click_login_button()
+&gt;       auth_page.unsuccessful_login()
+
+tests\test_auth.py:37: 
+_ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _
+
+self = &lt;pom.index_page.AuthPage object at 0x000002A31A07A4D0&gt;
+
+    def unsuccessful_login(self):
+        expected_text = 'Epic sadface: Username and password do not match any user in this service'
+        actual_text = self.to_text('css', Locators.ERROR_MESSAGE)
+&gt;       self.equal(expected_text, actual_text)
+E       AttributeError: 'AuthPage' object has no attribute 'equal'
+
+pom\index_page.py:39: AttributeError</failure></testcase><testcase classname="tests.test_auth" name="test_logout" time="9.655"><failure message="AttributeError: 'AuthPage' object has no attribute 'equal'">auth_page_input_data = &lt;pom.index_page.AuthPage object at 0x000002A31A90A710&gt;, main_page = &lt;pom.main_page.MainButton object at 0x000002A31A908550&gt;
+
+    @pytest.mark.smoke
+    def test_logout(auth_page_input_data, main_page):
+        main_page.click_main_button()
+        auth_page_input_data.click_logout_button()
+&gt;       auth_page_input_data.visible_login_button()
+
+tests\test_auth.py:44: 
+_ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _
+
+self = &lt;pom.index_page.AuthPage object at 0x000002A31A90A710&gt;
+
+    def visible_login_button(self):
+        expected_text = 'Login'
+        actual_text = self.to_get_attribute('css', Locators.LOGIN_BUTTON, 'value')
+&gt;       self.equal(expected_text, actual_text)
+E       AttributeError: 'AuthPage' object has no attribute 'equal'
+
+pom\index_page.py:29: AttributeError</failure></testcase><testcase classname="tests.test_main_page" name="test_sort_price" time="10.038" /><testcase classname="tests.test_rerun" name="test_1" time="0.003"><failure message="assert 1 == 5&#10; +  where 5 = &lt;bound method Random.choice of &lt;random.Random object at 0x000002A3171A0CE0&gt;&gt;([1, 2, 3, 4, 5, 6])&#10; +    where &lt;bound method Random.choice of &lt;random.Random object at 0x000002A3171A0CE0&gt;&gt; = random.choice">def test_1():
+&gt;       assert 1 == random.choice(numbers)
+E       assert 1 == 5
+E        +  where 5 = &lt;bound method Random.choice of &lt;random.Random object at 0x000002A3171A0CE0&gt;&gt;([1, 2, 3, 4, 5, 6])
+E        +    where &lt;bound method Random.choice of &lt;random.Random object at 0x000002A3171A0CE0&gt;&gt; = random.choice
+
+tests\test_rerun.py:9: AssertionError</failure></testcase></testsuite></testsuites>

@@ -13,7 +13,6 @@ from selenium.webdriver.remote.webelement import WebElement
 class BaseObject:
     log = log_method(logLevel=log.INFO)
     def __init__(self, driver):
-        self.list = []
         self.driver = driver
         self.wait = WebDriverWait(driver, 5)
 
@@ -29,6 +28,12 @@ class BaseObject:
         return selectors_dict[find_by]
 
     def is_visible(self, find_by, locator):
+        """
+        Отвечает за нахождение видимого элемента
+        :param find_by: метод поиска
+        :param locator: Локатор элемента
+        :return: видимый, найденый элемент.
+        """
         return self.wait.until(ec.visibility_of_element_located((self.__selenium_by(find_by), locator)))
 
     def is_present(self, find_by, locator):

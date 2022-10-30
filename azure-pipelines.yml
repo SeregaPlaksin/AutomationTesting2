@@ -1,9 +1,26 @@
+parameters:
+- name: subscription
+  displayName: test types
+  type: string
+  default: smoke
+  values:
+  - smoke
+  - ui
+
+
 trigger:
 - master
 
 #Операционная система
 pool:
    vmImage: 'windows-latest'
+
+schedules:
+- cron: "0 0 * * *"
+  displayName: Daily midnight build
+  branches:
+    include:
+    - master
 
 steps:
 - task: UsePythonVersion@0
@@ -22,10 +39,23 @@ steps:
 
 - task: CmdLine@2
   inputs:
-    script: |
-      pytest
+    ${{ if contains(parameters.subscription, 'smoke') }}:
+      script: |
+        pytest -k "smoke"
+    ${{ if contains(parameters.subscription, 'ui') }}:
+      script: |
+        pytest -k "ui"
   displayName: 'pytest'
   continueOnError: true
+
+
+#- task: CmdLine@2
+#  inputs:
+#    script: |
+#      pytest
+# displayName: 'pytest'
+# continueOnError: true
+
 
 - task: PublishTestResults@2
   inputs:
