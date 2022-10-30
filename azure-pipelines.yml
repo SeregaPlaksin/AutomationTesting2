@@ -23,6 +23,14 @@ schedules:
     - master
 
 steps:
+- task: replacetokens@3
+  displayName: 'Replace tokens'
+  inputs:
+    targetFiles: |
+      **/passwords.json
+    tokenPrefix: '$('
+    tokenSuffix: ')'
+
 - task: UsePythonVersion@0
   inputs:
     versionSpec: '3.9'
