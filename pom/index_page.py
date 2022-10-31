@@ -1,40 +1,17 @@
-import pytest
-
 from base_object.base import BaseObject
 from base_object.helper import Helper
 from base_object.locators import Locators
-import  json
-import os
-
-
-path = os.path.dirname(os.path.realpath(__file__))
-path2 = str(path)+'\\passwords.json'
-file = open(path2, 'rb')
-my_passwords = json.load(file)
-password = my_passwords['password']
-username = my_passwords['username']
-
-
 
 class AuthPage(BaseObject, Helper):
 
     def enter_correct_username(self, data='standard_user'):
         self.to_input('css', Locators.LOGIN, data)
 
-<<<<<<< HEAD
-class AuthPage(BaseObject, Helper):
-
-    def enter_correct_username(self):
-        self.to_input('css', Locators.LOGIN, username)
-
-    def enter_uncorrect_username(self):
-=======
     def enter_uncorrected_username(self):
->>>>>>> 5016f3a (update)
         self.to_input('css', Locators.LOGIN, '123qwe')
 
     def enter_correct_password(self):
-        self.to_input('css', Locators.PASS, password)
+        self.to_input('css', Locators.PASS, 'secret_sauce')
 
     def click_login_button(self):
         self.to_click('css', Locators.LOGIN_BUTTON)

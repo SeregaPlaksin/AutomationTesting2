@@ -30,16 +30,7 @@ class BaseObject:
         return selectors_dict[find_by]
 
     def is_visible(self, find_by, locator):
-<<<<<<< HEAD
-        """
-        Отвечает за нахождение видимого элемента
-        :param find_by: метод поиска
-        :param locator: Локатор элемента
-        :return: видимый, найденый элемент.
-        """
-=======
         self.log.info(f'element is_present - "{locator}"')
->>>>>>> 5016f3a (update)
         return self.wait.until(ec.visibility_of_element_located((self.__selenium_by(find_by), locator)))
 
     def is_present(self, find_by, locator):
