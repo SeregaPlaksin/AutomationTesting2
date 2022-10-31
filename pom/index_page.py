@@ -2,6 +2,7 @@ from base_object.base import BaseObject
 from base_object.helper import Helper
 from base_object.locators import Locators
 
+
 class AuthPage(BaseObject, Helper):
 
     def enter_correct_username(self, data='standard_user'):
