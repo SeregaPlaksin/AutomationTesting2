@@ -1,4 +1,5 @@
 
+
 class Locators:
     # Auth
     LOGIN = '.input_error[name="user-name"]'
@@ -9,9 +10,13 @@ class Locators:
 
     # MAIN
     TITLE = '.header_secondary_container span.title'
+    INVENTORY_LIST = '.inventory_list'
+    ADD_TO_CARD_TEXT = 'Add to cart'
     BASKET = '.shopping_cart_link'
     BASKET_CHECKOUT = '.cart_footer .btn.btn_action'
     CHECKOUT = '#checkout'
+
+
 
     BUTTON_MENU = 'div>.bm-burger-button >button'
     BUTTON_MENU_ALL_ITEMS = '#inventory_sidebar_link'

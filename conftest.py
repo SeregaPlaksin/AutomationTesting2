@@ -5,8 +5,8 @@ from selenium.webdriver.chrome.options import Options as chrome_options
 from selenium.webdriver.chrome.service import Service
 from webdriver_manager.chrome import ChromeDriverManager
 
-from pom.index_page import IndexPage, AuthPage
-from pom.main_page import MainButton, Sorted
+from pom.index_page import AuthPage
+from pom.main_page import MainPage, Sorted
 import time
 
 
@@ -55,7 +55,7 @@ def auth_page(setup):
 
 @pytest.fixture
 def main_page(setup_auth):
-    yield MainButton(setup_auth)
+    yield MainPage(setup_auth)
 
 
 @pytest.fixture

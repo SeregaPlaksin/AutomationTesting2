@@ -1,13 +1,21 @@
+import random
+
 from base_object.base import BaseObject
 from base_object.locators import Locators
 from base_object.helper import Helper
 
 
-class MainButton(BaseObject):
+class MainPage(BaseObject):
 
     def __init__(self, driver):
         super().__init__(driver)
         self.driver = driver
+
+    def random_inventory_elements(self):
+        elements = self.are_visible('css', Locators.INVENTORY_LIST, 'Add to cart')
+        random_elements = elements[random.randint(0, len(elements)-1)]
+        self.to_click('link_text', random_elements)
+
 
     def click_main_button(self):
         self.to_click('css', Locators.BUTTON_MENU)
@@ -16,7 +24,7 @@ class MainButton(BaseObject):
         self.to_click('css', Locators.BUTTON_MENU_ALL_ITEMS)
 
 
-class Basket(BaseObject):
+class Basket(BaseObject, Helper):
 
     def __init__(self, driver):
         super().__init__(driver)

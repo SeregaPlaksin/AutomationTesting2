@@ -1,4 +1,6 @@
 from typing import List
+
+from base_object.locators import Locators
 from utilities.logger import *
 import logging as log
 
@@ -28,40 +30,52 @@ class BaseObject:
         return selectors_dict[find_by]
 
     def is_visible(self, find_by, locator):
+<<<<<<< HEAD
         """
         Отвечает за нахождение видимого элемента
         :param find_by: метод поиска
         :param locator: Локатор элемента
         :return: видимый, найденый элемент.
         """
+=======
+        self.log.info(f'element is_present - "{locator}"')
+>>>>>>> 5016f3a (update)
         return self.wait.until(ec.visibility_of_element_located((self.__selenium_by(find_by), locator)))
 
     def is_present(self, find_by, locator):
+        self.log.info(f'element is_present -"{locator}"')
         return self.wait.until(ec.presence_of_element_located((self.__selenium_by(find_by), locator)))
 
-    def is_clicable(self, find_by, locator):
+    def is_clickable(self, find_by, locator):
+        self.log.info(f'element is_clickable - "{locator}"')
         return self.wait.until(ec.element_to_be_clickable((self.__selenium_by(find_by), locator)))
 
+    def are_visible(self, find_by, locator, locator_name) -> List[WebElement]:
+        self.log.info(f'all element visible - "{locator}"')
+        return self.wait.until(ec.visibility_of_all_elements_located((self.__selenium_by(find_by), locator)),
+                               locator_name)
+
     def to_input(self, find_by, locator, text):
+        self.log.info(f'input on - "{locator}"')
         self.is_visible(find_by, locator).send_keys(text)
 
     def to_text(self, find_by, locator):
+        self.log.info(f'input text in - "{locator}"')
         return self.is_visible(find_by, locator).text
 
     def to_get_attribute(self, find_by, locator, name_attr):
         return self.is_visible(find_by, locator).get_attribute(name_attr)
 
     def to_click(self, find_by, locator):
-        self.log.info('element clicked')
-        self.is_clicable(find_by, locator).click()
+        self.log.info(f'clicked on - "{locator}"')
+        self.is_clickable(find_by, locator).click()
 
     def select_dropdown(self, find_by, locator, text):
+        self.log.info(f'select dropdown - "{locator}"')
         dropdown = Select(self.is_visible(find_by, locator))
         return dropdown.select_by_visible_text(text)
 
-    def are_visible(self, find_by, locator, locator_name) -> List[WebElement]:
-        return self.wait.until(ec.visibility_of_all_elements_located((self.__selenium_by(find_by), locator)),
-                               locator_name)
+
 
 
 

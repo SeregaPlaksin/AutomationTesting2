@@ -1,0 +1,258 @@
+******* element clicked *********
+******* element clicked *********
+******* element clicked *********
+******* element clicked *********
+******* element clicked *********
+******* element clicked *********
+******* element clicked *********
+******* [data-test="login-button"] clicked *********
+******* element clicked *********
+******* [data-test="login-button"] clicked *********
+******* [data-test="login-button"] clicked *********
+******* element clicked *********
+******* [data-test="login-button"] clicked *********
+******* element clicked *********
+******* element [data-test="login-button"]  clicked *********
+******* element [data-test="login-button"]  clicked *********
+******* element [data-test="login-button"]  clicked *********
+******* input text - .header_secondary_container span.title  *********
+******* input on - ".input_error[name="user-name"]" *********
+******* element is_present - ".input_error[name="user-name"]" *********
+******* input on - "form>div:nth-child(2) .input_error" *********
+******* element is_present - "form>div:nth-child(2) .input_error" *********
+******* clicked on - "[data-test="login-button"]" *********
+******* element is_clickable - "[data-test="login-button"]" *********
+******* input text in - ".header_secondary_container span.title" *********
+******* element is_present - ".header_secondary_container span.title" *********
+******* input on - ".input_error[name="user-name"]" *********
+******* element is_present - ".input_error[name="user-name"]" *********
+******* input on - "form>div:nth-child(2) .input_error" *********
+******* element is_present - "form>div:nth-child(2) .input_error" *********
+******* clicked on - "[data-test="login-button"]" *********
+******* element is_clickable - "[data-test="login-button"]" *********
+******* input text in - ".header_secondary_container span.title" *********
+******* element is_present - ".header_secondary_container span.title" *********
+******* input on - ".input_error[name="user-name"]" *********
+******* element is_present - ".input_error[name="user-name"]" *********
+******* input on - "form>div:nth-child(2) .input_error" *********
+******* element is_present - "form>div:nth-child(2) .input_error" *********
+******* clicked on - "[data-test="login-button"]" *********
+******* element is_clickable - "[data-test="login-button"]" *********
+******* input text in - ".header_secondary_container span.title" *********
+******* element is_present - ".header_secondary_container span.title" *********
+******* input on - ".input_error[name="user-name"]" *********
+******* element is_present - ".input_error[name="user-name"]" *********
+******* input on - "form>div:nth-child(2) .input_error" *********
+******* element is_present - "form>div:nth-child(2) .input_error" *********
+******* clicked on - "[data-test="login-button"]" *********
+******* element is_clickable - "[data-test="login-button"]" *********
+******* input text in - ".header_secondary_container span.title" *********
+******* element is_present - ".header_secondary_container span.title" *********
+******* input on - ".input_error[name="user-name"]" *********
+******* element is_present - ".input_error[name="user-name"]" *********
+******* input on - "form>div:nth-child(2) .input_error" *********
+******* element is_present - "form>div:nth-child(2) .input_error" *********
+******* clicked on - "[data-test="login-button"]" *********
+******* element is_clickable - "[data-test="login-button"]" *********
+******* input text in - ".header_secondary_container span.title" *********
+******* element is_present - ".header_secondary_container span.title" *********
+******* input on - ".input_error[name="user-name"]" *********
+******* element is_present - ".input_error[name="user-name"]" *********
+******* input on - "form>div:nth-child(2) .input_error" *********
+******* element is_present - "form>div:nth-child(2) .input_error" *********
+******* clicked on - "[data-test="login-button"]" *********
+******* element is_clickable - "[data-test="login-button"]" *********
+******* input text in - ".header_secondary_container span.title" *********
+******* element is_present - ".header_secondary_container span.title" *********
+******* input on - ".input_error[name="user-name"]" *********
+******* element is_present - ".input_error[name="user-name"]" *********
+******* input on - "form>div:nth-child(2) .input_error" *********
+******* element is_present - "form>div:nth-child(2) .input_error" *********
+******* clicked on - "[data-test="login-button"]" *********
+******* element is_clickable - "[data-test="login-button"]" *********
+******* input text in - ".header_secondary_container span.title" *********
+******* element is_present - ".header_secondary_container span.title" *********
+******* input on - ".input_error[name="user-name"]" *********
+******* element is_present - ".input_error[name="user-name"]" *********
+******* input on - "form>div:nth-child(2) .input_error" *********
+******* element is_present - "form>div:nth-child(2) .input_error" *********
+******* clicked on - "[data-test="login-button"]" *********
+******* element is_clickable - "[data-test="login-button"]" *********
+******* input text in - ".header_secondary_container span.title" *********
+******* element is_present - ".header_secondary_container span.title" *********
+******* input on - ".input_error[name="user-name"]" *********
+******* element is_present - ".input_error[name="user-name"]" *********
+******* input on - "form>div:nth-child(2) .input_error" *********
+******* element is_present - "form>div:nth-child(2) .input_error" *********
+******* clicked on - "[data-test="login-button"]" *********
+******* element is_clickable - "[data-test="login-button"]" *********
+******* input text in - ".header_secondary_container span.title" *********
+******* element is_present - ".header_secondary_container span.title" *********
+******* input on - ".input_error[name="user-name"]" *********
+******* element is_present - ".input_error[name="user-name"]" *********
+******* input on - "form>div:nth-child(2) .input_error" *********
+******* element is_present - "form>div:nth-child(2) .input_error" *********
+******* clicked on - "[data-test="login-button"]" *********
+******* element is_clickable - "[data-test="login-button"]" *********
+******* input text in - ".header_secondary_container span.title" *********
+******* element is_present - ".header_secondary_container span.title" *********
+******* input on - ".input_error[name="user-name"]" *********
+******* element is_present - ".input_error[name="user-name"]" *********
+******* input on - "form>div:nth-child(2) .input_error" *********
+******* element is_present - "form>div:nth-child(2) .input_error" *********
+******* clicked on - "[data-test="login-button"]" *********
+******* element is_clickable - "[data-test="login-button"]" *********
+******* input text in - ".header_secondary_container span.title" *********
+******* element is_present - ".header_secondary_container span.title" *********
+******* input on - ".input_error[name="user-name"]" *********
+******* element is_present - ".input_error[name="user-name"]" *********
+******* input on - "form>div:nth-child(2) .input_error" *********
+******* element is_present - "form>div:nth-child(2) .input_error" *********
+******* clicked on - "[data-test="login-button"]" *********
+******* element is_clickable - "[data-test="login-button"]" *********
+******* input text in - ".header_secondary_container span.title" *********
+******* element is_present - ".header_secondary_container span.title" *********
+******* input on - ".input_error[name="user-name"]" *********
+******* element is_present - ".input_error[name="user-name"]" *********
+******* input on - "form>div:nth-child(2) .input_error" *********
+******* element is_present - "form>div:nth-child(2) .input_error" *********
+******* clicked on - "[data-test="login-button"]" *********
+******* element is_clickable - "[data-test="login-button"]" *********
+******* input text in - ".header_secondary_container span.title" *********
+******* element is_present - ".header_secondary_container span.title" *********
+******* input on - ".input_error[name="user-name"]" *********
+******* element is_present - ".input_error[name="user-name"]" *********
+******* input on - "form>div:nth-child(2) .input_error" *********
+******* element is_present - "form>div:nth-child(2) .input_error" *********
+******* clicked on - "[data-test="login-button"]" *********
+******* element is_clickable - "[data-test="login-button"]" *********
+******* all element visible - ".inventory_list" *********
+******* select dropdown - "<selenium.webdriver.remote.webelement.WebElement (session="e17036c5a2c90da60c336a9a03e35be2", element="7b93b1fc-f984-4934-8c60-dbac98be62ce")>" *********
+******* element is_present - "<selenium.webdriver.remote.webelement.WebElement (session="e17036c5a2c90da60c336a9a03e35be2", element="7b93b1fc-f984-4934-8c60-dbac98be62ce")>" *********
+******* input on - ".input_error[name="user-name"]" *********
+******* element is_present - ".input_error[name="user-name"]" *********
+******* input on - "form>div:nth-child(2) .input_error" *********
+******* element is_present - "form>div:nth-child(2) .input_error" *********
+******* clicked on - "[data-test="login-button"]" *********
+******* element is_clickable - "[data-test="login-button"]" *********
+******* select dropdown - ".inventory_list" *********
+******* element is_present - ".inventory_list" *********
+******* input on - ".input_error[name="user-name"]" *********
+******* element is_present - ".input_error[name="user-name"]" *********
+******* input on - "form>div:nth-child(2) .input_error" *********
+******* element is_present - "form>div:nth-child(2) .input_error" *********
+******* clicked on - "[data-test="login-button"]" *********
+******* element is_clickable - "[data-test="login-button"]" *********
+******* element is_present - "Add to cart" *********
+******* input on - ".input_error[name="user-name"]" *********
+******* element is_present - ".input_error[name="user-name"]" *********
+******* input on - "form>div:nth-child(2) .input_error" *********
+******* element is_present - "form>div:nth-child(2) .input_error" *********
+******* clicked on - "[data-test="login-button"]" *********
+******* element is_clickable - "[data-test="login-button"]" *********
+******* element is_present - "Add to cart" *********
+******* input on - ".input_error[name="user-name"]" *********
+******* element is_present - ".input_error[name="user-name"]" *********
+******* input on - "form>div:nth-child(2) .input_error" *********
+******* element is_present - "form>div:nth-child(2) .input_error" *********
+******* clicked on - "[data-test="login-button"]" *********
+******* element is_clickable - "[data-test="login-button"]" *********
+******* element is_present - "Add to cart" *********
+******* input on - ".input_error[name="user-name"]" *********
+******* element is_present - ".input_error[name="user-name"]" *********
+******* input on - "form>div:nth-child(2) .input_error" *********
+******* element is_present - "form>div:nth-child(2) .input_error" *********
+******* clicked on - "[data-test="login-button"]" *********
+******* element is_clickable - "[data-test="login-button"]" *********
+******* element is_present - "Add to cart" *********
+******* input on - ".input_error[name="user-name"]" *********
+******* element is_present - ".input_error[name="user-name"]" *********
+******* input on - "form>div:nth-child(2) .input_error" *********
+******* element is_present - "form>div:nth-child(2) .input_error" *********
+******* clicked on - "[data-test="login-button"]" *********
+******* element is_clickable - "[data-test="login-button"]" *********
+******* input on - ".input_error[name="user-name"]" *********
+******* element is_present - ".input_error[name="user-name"]" *********
+******* input on - "form>div:nth-child(2) .input_error" *********
+******* element is_present - "form>div:nth-child(2) .input_error" *********
+******* clicked on - "[data-test="login-button"]" *********
+******* element is_clickable - "[data-test="login-button"]" *********
+******* all element visible - ".inventory_list" *********
+******* clicked on - "<selenium.webdriver.remote.webelement.WebElement (session="e1e82f87d113feb4298282e9237a2b12", element="6b0dc09c-4aca-4012-9731-a072b432c534")>" *********
+******* element is_clickable - "<selenium.webdriver.remote.webelement.WebElement (session="e1e82f87d113feb4298282e9237a2b12", element="6b0dc09c-4aca-4012-9731-a072b432c534")>" *********
+******* input on - ".input_error[name="user-name"]" *********
+******* element is_present - ".input_error[name="user-name"]" *********
+******* input on - "form>div:nth-child(2) .input_error" *********
+******* element is_present - "form>div:nth-child(2) .input_error" *********
+******* clicked on - "[data-test="login-button"]" *********
+******* element is_clickable - "[data-test="login-button"]" *********
+******* all element visible - ".inventory_list" *********
+******* clicked on - "<selenium.webdriver.remote.webelement.WebElement (session="26106279837f901d3e6dca025bff305f", element="e37a5547-658b-4083-8d6e-01b149eb0051")>" *********
+******* element is_clickable - "<selenium.webdriver.remote.webelement.WebElement (session="26106279837f901d3e6dca025bff305f", element="e37a5547-658b-4083-8d6e-01b149eb0051")>" *********
+******* input on - ".input_error[name="user-name"]" *********
+******* element is_present - ".input_error[name="user-name"]" *********
+******* input on - "form>div:nth-child(2) .input_error" *********
+******* element is_present - "form>div:nth-child(2) .input_error" *********
+******* clicked on - "[data-test="login-button"]" *********
+******* element is_clickable - "[data-test="login-button"]" *********
+******* input text in - ".header_secondary_container span.title" *********
+******* element is_present - ".header_secondary_container span.title" *********
+******* input on - ".input_error[name="user-name"]" *********
+******* element is_present - ".input_error[name="user-name"]" *********
+******* input on - "form>div:nth-child(2) .input_error" *********
+******* element is_present - "form>div:nth-child(2) .input_error" *********
+******* clicked on - "[data-test="login-button"]" *********
+******* element is_clickable - "[data-test="login-button"]" *********
+******* input text in - ".header_secondary_container span.title" *********
+******* element is_present - ".header_secondary_container span.title" *********
+******* input on - ".input_error[name="user-name"]" *********
+******* element is_present - ".input_error[name="user-name"]" *********
+******* input on - "form>div:nth-child(2) .input_error" *********
+******* element is_present - "form>div:nth-child(2) .input_error" *********
+******* clicked on - "[data-test="login-button"]" *********
+******* element is_clickable - "[data-test="login-button"]" *********
+******* input text in - ".header_secondary_container span.title" *********
+******* element is_present - ".header_secondary_container span.title" *********
+******* input on - ".input_error[name="user-name"]" *********
+******* element is_present - ".input_error[name="user-name"]" *********
+******* input on - "form>div:nth-child(2) .input_error" *********
+******* element is_present - "form>div:nth-child(2) .input_error" *********
+******* clicked on - "[data-test="login-button"]" *********
+******* element is_clickable - "[data-test="login-button"]" *********
+******* clicked on - "div>.bm-burger-button >button" *********
+******* element is_clickable - "div>.bm-burger-button >button" *********
+******* input on - ".input_error[name="user-name"]" *********
+******* element is_present - ".input_error[name="user-name"]" *********
+******* input on - "form>div:nth-child(2) .input_error" *********
+******* element is_present - "form>div:nth-child(2) .input_error" *********
+******* clicked on - "[data-test="login-button"]" *********
+******* element is_clickable - "[data-test="login-button"]" *********
+******* clicked on - "div>.bm-burger-button >button" *********
+******* element is_clickable - "div>.bm-burger-button >button" *********
+******* clicked on - "#logout_sidebar_link" *********
+******* element is_clickable - "#logout_sidebar_link" *********
+******* element is_present - "[data-test="login-button"]" *********
+******* input on - ".input_error[name="user-name"]" *********
+******* element is_present - ".input_error[name="user-name"]" *********
+******* input on - "form>div:nth-child(2) .input_error" *********
+******* element is_present - "form>div:nth-child(2) .input_error" *********
+******* clicked on - "[data-test="login-button"]" *********
+******* element is_clickable - "[data-test="login-button"]" *********
+******* input text in - ".header_secondary_container span.title" *********
+******* element is_present - ".header_secondary_container span.title" *********
+******* input on - ".input_error[name="user-name"]" *********
+******* element is_present - ".input_error[name="user-name"]" *********
+******* input on - "form>div:nth-child(2) .input_error" *********
+******* element is_present - "form>div:nth-child(2) .input_error" *********
+******* clicked on - "[data-test="login-button"]" *********
+******* element is_clickable - "[data-test="login-button"]" *********
+******* input text in - ".header_secondary_container span.title" *********
+******* element is_present - ".header_secondary_container span.title" *********
+******* input on - ".input_error[name="user-name"]" *********
+******* element is_present - ".input_error[name="user-name"]" *********
+******* input on - "form>div:nth-child(2) .input_error" *********
+******* element is_present - "form>div:nth-child(2) .input_error" *********
+******* clicked on - "[data-test="login-button"]" *********
+******* element is_clickable - "[data-test="login-button"]" *********
+******* input text in - ".header_secondary_container span.title" *********
+******* element is_present - ".header_secondary_container span.title" *********
