@@ -6,7 +6,7 @@ from selenium.webdriver.chrome.service import Service
 from webdriver_manager.chrome import ChromeDriverManager
 
 from pom.index_page import AuthPage
-from pom.main_page import MainPage, Sorted
+from pom.main_page import *
 import time
 
 
@@ -51,6 +51,11 @@ def setup_auth(get_webdriver):
 @pytest.fixture
 def auth_page(setup):
     yield AuthPage(setup)
+
+
+@pytest.fixture
+def shopping_cart(setup_auth):
+    yield ShoppingCart(setup_auth)
 
 
 @pytest.fixture

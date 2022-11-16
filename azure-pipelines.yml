@@ -23,14 +23,6 @@ schedules:
     - master
 
 steps:
-- task: replacetokens@3
-  displayName: 'Replace tokens'
-  inputs:
-    targetFiles: |
-      **/passwords.json
-    tokenPrefix: '$('
-    tokenSuffix: ')'
-
 - task: UsePythonVersion@0
   inputs:
     versionSpec: '3.9'
@@ -63,6 +55,14 @@ steps:
 #      pytest
 # displayName: 'pytest'
 # continueOnError: true
+
+#- task: replacetokens@3
+#  displayName: 'Replace tokens'
+#  inputs:
+#   targetFiles: |
+#      **/passwords.json
+#    tokenPrefix: '$('
+#   tokenSuffix: ')'
 
 
 - task: PublishTestResults@2

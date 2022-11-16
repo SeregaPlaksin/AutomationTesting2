@@ -10,11 +10,12 @@ class Locators:
 
     # MAIN
     TITLE = '.header_secondary_container span.title'
-    INVENTORY_LIST = '.inventory_list'
+    INVENTORY_LIST = '.pricebar>button'
     ADD_TO_CARD_TEXT = 'Add to cart'
     BASKET = '.shopping_cart_link'
     BASKET_CHECKOUT = '.cart_footer .btn.btn_action'
     CHECKOUT = '#checkout'
+    SHOPPING_CART_BADGE = '.shopping_cart_badge'
 
 
 

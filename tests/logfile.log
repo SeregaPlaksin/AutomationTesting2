@@ -256,3 +256,161 @@
 ******* element is_clickable - "[data-test="login-button"]" *********
 ******* input text in - ".header_secondary_container span.title" *********
 ******* element is_present - ".header_secondary_container span.title" *********
+******* input on - ".input_error[name="user-name"]" *********
+******* element is_present - ".input_error[name="user-name"]" *********
+******* input on - "form>div:nth-child(2) .input_error" *********
+******* element is_present - "form>div:nth-child(2) .input_error" *********
+******* clicked on - "[data-test="login-button"]" *********
+******* element is_clickable - "[data-test="login-button"]" *********
+******* input text in - ".header_secondary_container span.title" *********
+******* element is_present - ".header_secondary_container span.title" *********
+******* input on - ".input_error[name="user-name"]" *********
+******* element is_present - ".input_error[name="user-name"]" *********
+******* input on - "form>div:nth-child(2) .input_error" *********
+******* element is_present - "form>div:nth-child(2) .input_error" *********
+******* clicked on - "[data-test="login-button"]" *********
+******* element is_clickable - "[data-test="login-button"]" *********
+******* input text in - ".header_secondary_container span.title" *********
+******* element is_present - ".header_secondary_container span.title" *********
+******* input on - ".input_error[name="user-name"]" *********
+******* element is_present - ".input_error[name="user-name"]" *********
+******* input on - "form>div:nth-child(2) .input_error" *********
+******* element is_present - "form>div:nth-child(2) .input_error" *********
+******* clicked on - "[data-test="login-button"]" *********
+******* element is_clickable - "[data-test="login-button"]" *********
+******* input text in - ".header_secondary_container span.title" *********
+******* element is_present - ".header_secondary_container span.title" *********
+******* input on - ".input_error[name="user-name"]" *********
+******* element is_present - ".input_error[name="user-name"]" *********
+******* input on - "form>div:nth-child(2) .input_error" *********
+******* element is_present - "form>div:nth-child(2) .input_error" *********
+******* clicked on - "[data-test="login-button"]" *********
+******* element is_clickable - "[data-test="login-button"]" *********
+******* all element visible - ".inventory_list" *********
+******* clicked on - "<selenium.webdriver.remote.webelement.WebElement (session="cd2d83dd757370f7ddf57e5f734b2c27", element="dccbfa5a-3967-41a4-9893-73b70d5ae511")>" *********
+******* element is_clickable - "<selenium.webdriver.remote.webelement.WebElement (session="cd2d83dd757370f7ddf57e5f734b2c27", element="dccbfa5a-3967-41a4-9893-73b70d5ae511")>" *********
+******* input on - ".input_error[name="user-name"]" *********
+******* element is_present - ".input_error[name="user-name"]" *********
+******* input on - "form>div:nth-child(2) .input_error" *********
+******* element is_present - "form>div:nth-child(2) .input_error" *********
+******* clicked on - "[data-test="login-button"]" *********
+******* element is_clickable - "[data-test="login-button"]" *********
+******* all element visible - ".inventory_list" *********
+******* clicked on - "<selenium.webdriver.remote.webelement.WebElement (session="4f3cd2e47f9474c8e277292ada235d03", element="b2e9ce26-d342-4cfd-945d-d20c63b15413")>" *********
+******* element is_clickable - "<selenium.webdriver.remote.webelement.WebElement (session="4f3cd2e47f9474c8e277292ada235d03", element="b2e9ce26-d342-4cfd-945d-d20c63b15413")>" *********
+******* input on - ".input_error[name="user-name"]" *********
+******* element is_present - ".input_error[name="user-name"]" *********
+******* input on - "form>div:nth-child(2) .input_error" *********
+******* element is_present - "form>div:nth-child(2) .input_error" *********
+******* clicked on - "[data-test="login-button"]" *********
+******* element is_clickable - "[data-test="login-button"]" *********
+******* all element visible - ".inventory_list" *********
+******* clicked on - "<selenium.webdriver.remote.webelement.WebElement (session="31a7c28eaab77acc2c5ab2c2715b8773", element="56dc6c9e-ef01-494f-aef3-4d6b13f54e89")>" *********
+******* element is_clickable - "<selenium.webdriver.remote.webelement.WebElement (session="31a7c28eaab77acc2c5ab2c2715b8773", element="56dc6c9e-ef01-494f-aef3-4d6b13f54e89")>" *********
+******* input on - ".input_error[name="user-name"]" *********
+******* element is_present - ".input_error[name="user-name"]" *********
+******* input on - "form>div:nth-child(2) .input_error" *********
+******* element is_present - "form>div:nth-child(2) .input_error" *********
+******* clicked on - "[data-test="login-button"]" *********
+******* element is_clickable - "[data-test="login-button"]" *********
+******* all element visible - ".inventory_list" *********
+******* element is_clickable - "<selenium.webdriver.remote.webelement.WebElement (session="68e87f2a75efd55084ac9d7757ff44f8", element="9c3c6674-e09f-40b2-baa9-6a829aee73b7")>" *********
+******* input on - ".input_error[name="user-name"]" *********
+******* element is_present - ".input_error[name="user-name"]" *********
+******* input on - "form>div:nth-child(2) .input_error" *********
+******* element is_present - "form>div:nth-child(2) .input_error" *********
+******* clicked on - "[data-test="login-button"]" *********
+******* element is_clickable - "[data-test="login-button"]" *********
+******* all element visible - ".inventory_list" *********
+******* clicked on - "<selenium.webdriver.remote.webelement.WebElement (session="190912734c7e37e26833687456123492", element="b9fc2dda-ddf2-444d-8b68-25fb3864eff6")>" *********
+******* element is_clickable - "<selenium.webdriver.remote.webelement.WebElement (session="190912734c7e37e26833687456123492", element="b9fc2dda-ddf2-444d-8b68-25fb3864eff6")>" *********
+******* input on - ".input_error[name="user-name"]" *********
+******* element is_present - ".input_error[name="user-name"]" *********
+******* input on - "form>div:nth-child(2) .input_error" *********
+******* element is_present - "form>div:nth-child(2) .input_error" *********
+******* clicked on - "[data-test="login-button"]" *********
+******* element is_clickable - "[data-test="login-button"]" *********
+******* all element visible - ".inventory_item" *********
+******* clicked on - "<selenium.webdriver.remote.webelement.WebElement (session="92a641bf9d42ea1575b86135e5c3719c", element="734c70bd-e532-494d-b207-35e23f502b01")>" *********
+******* element is_clickable - "<selenium.webdriver.remote.webelement.WebElement (session="92a641bf9d42ea1575b86135e5c3719c", element="734c70bd-e532-494d-b207-35e23f502b01")>" *********
+******* input on - ".input_error[name="user-name"]" *********
+******* element is_present - ".input_error[name="user-name"]" *********
+******* input on - "form>div:nth-child(2) .input_error" *********
+******* element is_present - "form>div:nth-child(2) .input_error" *********
+******* clicked on - "[data-test="login-button"]" *********
+******* element is_clickable - "[data-test="login-button"]" *********
+******* all element visible - ".pricebar>button" *********
+******* clicked on - "<selenium.webdriver.remote.webelement.WebElement (session="9f78e2b2da6315b9270a69a14998be8c", element="99b42595-cdef-4ccd-9ee8-1e1e30168ba0")>" *********
+******* element is_clickable - "<selenium.webdriver.remote.webelement.WebElement (session="9f78e2b2da6315b9270a69a14998be8c", element="99b42595-cdef-4ccd-9ee8-1e1e30168ba0")>" *********
+******* input on - ".input_error[name="user-name"]" *********
+******* element is_present - ".input_error[name="user-name"]" *********
+******* input on - "form>div:nth-child(2) .input_error" *********
+******* element is_present - "form>div:nth-child(2) .input_error" *********
+******* clicked on - "[data-test="login-button"]" *********
+******* element is_clickable - "[data-test="login-button"]" *********
+******* all element visible - ".pricebar>button" *********
+******* input text in - ".shopping_cart_badge" *********
+******* element is_present - ".shopping_cart_badge" *********
+******* input on - ".input_error[name="user-name"]" *********
+******* element is_present - ".input_error[name="user-name"]" *********
+******* input on - "form>div:nth-child(2) .input_error" *********
+******* element is_present - "form>div:nth-child(2) .input_error" *********
+******* clicked on - "[data-test="login-button"]" *********
+******* element is_clickable - "[data-test="login-button"]" *********
+******* all element visible - ".pricebar>button" *********
+******* clicked on - "<selenium.webdriver.remote.webelement.WebElement (session="498e22fe2d32e51ac73889526201a96a", element="69f4b290-8185-4874-8480-10c004c39fe0")>" *********
+******* element is_clickable - "<selenium.webdriver.remote.webelement.WebElement (session="498e22fe2d32e51ac73889526201a96a", element="69f4b290-8185-4874-8480-10c004c39fe0")>" *********
+******* input on - ".input_error[name="user-name"]" *********
+******* element is_present - ".input_error[name="user-name"]" *********
+******* input on - "form>div:nth-child(2) .input_error" *********
+******* element is_present - "form>div:nth-child(2) .input_error" *********
+******* clicked on - "[data-test="login-button"]" *********
+******* element is_clickable - "[data-test="login-button"]" *********
+******* all element visible - ".pricebar>button" *********
+******* clicked on - "<selenium.webdriver.remote.webelement.WebElement (session="c4c49ee5588cd13f7a3c22c31a22231e", element="167d23d9-c72e-45ef-9026-c232dee64769")>" *********
+******* element is_clickable - "<selenium.webdriver.remote.webelement.WebElement (session="c4c49ee5588cd13f7a3c22c31a22231e", element="167d23d9-c72e-45ef-9026-c232dee64769")>" *********
+******* input on - ".input_error[name="user-name"]" *********
+******* element is_present - ".input_error[name="user-name"]" *********
+******* input on - "form>div:nth-child(2) .input_error" *********
+******* element is_present - "form>div:nth-child(2) .input_error" *********
+******* clicked on - "[data-test="login-button"]" *********
+******* element is_clickable - "[data-test="login-button"]" *********
+******* all element visible - ".pricebar>button" *********
+******* clicked on - "<selenium.webdriver.remote.webelement.WebElement (session="14a46878c1a1a6cb23f78f6378a105b9", element="b838e398-dc97-4dd2-8517-a971d2cd21d9")>" *********
+******* element is_clickable - "<selenium.webdriver.remote.webelement.WebElement (session="14a46878c1a1a6cb23f78f6378a105b9", element="b838e398-dc97-4dd2-8517-a971d2cd21d9")>" *********
+******* input on - ".input_error[name="user-name"]" *********
+******* element is_present - ".input_error[name="user-name"]" *********
+******* input on - "form>div:nth-child(2) .input_error" *********
+******* element is_present - "form>div:nth-child(2) .input_error" *********
+******* clicked on - "[data-test="login-button"]" *********
+******* element is_clickable - "[data-test="login-button"]" *********
+******* all element visible - ".pricebar>button" *********
+******* input text in - ".shopping_cart_badge" *********
+******* element is_present - ".shopping_cart_badge" *********
+******* input on - ".input_error[name="user-name"]" *********
+******* element is_present - ".input_error[name="user-name"]" *********
+******* input on - "form>div:nth-child(2) .input_error" *********
+******* element is_present - "form>div:nth-child(2) .input_error" *********
+******* clicked on - "[data-test="login-button"]" *********
+******* element is_clickable - "[data-test="login-button"]" *********
+******* all element visible - ".pricebar>button" *********
+******* input text in - ".shopping_cart_badge" *********
+******* element is_present - ".shopping_cart_badge" *********
+******* input on - ".input_error[name="user-name"]" *********
+******* element is_present - ".input_error[name="user-name"]" *********
+******* input on - "form>div:nth-child(2) .input_error" *********
+******* element is_present - "form>div:nth-child(2) .input_error" *********
+******* clicked on - "[data-test="login-button"]" *********
+******* element is_clickable - "[data-test="login-button"]" *********
+******* all element visible - ".pricebar>button" *********
+******* input text in - ".shopping_cart_badge" *********
+******* element is_present - ".shopping_cart_badge" *********
+******* input on - ".input_error[name="user-name"]" *********
+******* element is_present - ".input_error[name="user-name"]" *********
+******* input on - "form>div:nth-child(2) .input_error" *********
+******* element is_present - "form>div:nth-child(2) .input_error" *********
+******* clicked on - "[data-test="login-button"]" *********
+******* element is_clickable - "[data-test="login-button"]" *********
+******* all element visible - ".pricebar>button" *********
+******* input text in - ".shopping_cart_badge" *********
+******* element is_present - ".shopping_cart_badge" *********

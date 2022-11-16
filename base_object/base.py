@@ -18,7 +18,7 @@ class BaseObject:
         self.driver = driver
         self.wait = WebDriverWait(driver, 5)
 
-    def __selenium_by(self, find_by):
+    def __selenium_by(self, find_by=None):
         selectors_dict = {'css': By.CSS_SELECTOR,
                           'xpath': By.XPATH,
                           'id': By.ID,
