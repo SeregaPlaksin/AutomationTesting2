@@ -11,12 +11,11 @@ parameters:
 trigger:
 - master
 
-#Операционная система
 pool:
    vmImage: 'windows-latest'
 
 schedules:
-- cron: "0 0 * * *"
+- cron: "0 0 0 0 0"
   displayName: Daily midnight build
   branches:
     include:
