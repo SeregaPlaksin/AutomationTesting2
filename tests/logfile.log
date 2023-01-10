@@ -414,3 +414,901 @@
 ******* all element visible - ".pricebar>button" *********
 ******* input text in - ".shopping_cart_badge" *********
 ******* element is_present - ".shopping_cart_badge" *********
+******* input on - ".input_error[name="user-name"]" *********
+******* element is_present - ".input_error[name="user-name"]" *********
+******* input on - "form>div:nth-child(2) .input_error" *********
+******* element is_present - "form>div:nth-child(2) .input_error" *********
+******* clicked on - "[data-test="login-button"]" *********
+******* element is_clickable - "[data-test="login-button"]" *********
+******* input on - ".input_error[name="user-name"]" *********
+******* element is_present - ".input_error[name="user-name"]" *********
+******* input on - "form>div:nth-child(2) .input_error" *********
+******* element is_present - "form>div:nth-child(2) .input_error" *********
+******* clicked on - "[data-test="login-button"]" *********
+******* element is_clickable - "[data-test="login-button"]" *********
+******* input on - ".input_error[name="user-name"]" *********
+******* element is_present - ".input_error[name="user-name"]" *********
+******* input on - "form>div:nth-child(2) .input_error" *********
+******* element is_present - "form>div:nth-child(2) .input_error" *********
+******* clicked on - "[data-test="login-button"]" *********
+******* element is_clickable - "[data-test="login-button"]" *********
+******* all element visible - ".inventory_item_name" *********
+******* input on - ".input_error[name="user-name"]" *********
+******* element is_present - ".input_error[name="user-name"]" *********
+******* input on - "form>div:nth-child(2) .input_error" *********
+******* element is_present - "form>div:nth-child(2) .input_error" *********
+******* clicked on - "[data-test="login-button"]" *********
+******* element is_clickable - "[data-test="login-button"]" *********
+******* all element visible - ".inventory_item_name" *********
+******* input on - ".input_error[name="user-name"]" *********
+******* element is_present - ".input_error[name="user-name"]" *********
+******* input on - "form>div:nth-child(2) .input_error" *********
+******* element is_present - "form>div:nth-child(2) .input_error" *********
+******* clicked on - "[data-test="login-button"]" *********
+******* element is_clickable - "[data-test="login-button"]" *********
+******* input on - ".input_error[name="user-name"]" *********
+******* element is_present - ".input_error[name="user-name"]" *********
+******* input on - "form>div:nth-child(2) .input_error" *********
+******* element is_present - "form>div:nth-child(2) .input_error" *********
+******* clicked on - "[data-test="login-button"]" *********
+******* element is_clickable - "[data-test="login-button"]" *********
+******* all element visible - ".inventory_item_name" *********
+******* clicked on - ".btn.btn_primary" *********
+******* element is_clickable - ".btn.btn_primary" *********
+******* clicked on - ".shopping_cart_link" *********
+******* element is_clickable - ".shopping_cart_link" *********
+******* all element visible - ".inventory_item_name" *********
+******* input text in - ".inventory_item_name" *********
+******* element is_present - ".inventory_item_name" *********
+******* input on - ".input_error[name="user-name"]" *********
+******* element is_present - ".input_error[name="user-name"]" *********
+******* input on - "form>div:nth-child(2) .input_error" *********
+******* element is_present - "form>div:nth-child(2) .input_error" *********
+******* clicked on - "[data-test="login-button"]" *********
+******* element is_clickable - "[data-test="login-button"]" *********
+******* all element visible - ".inventory_item_name" *********
+******* clicked on - ".btn.btn_primary" *********
+******* element is_clickable - ".btn.btn_primary" *********
+******* clicked on - ".shopping_cart_link" *********
+******* element is_clickable - ".shopping_cart_link" *********
+******* all element visible - ".inventory_item_name" *********
+******* input text in - ".inventory_item_name" *********
+******* element is_present - ".inventory_item_name" *********
+******* input on - ".input_error[name="user-name"]" *********
+******* element is_present - ".input_error[name="user-name"]" *********
+******* input on - "form>div:nth-child(2) .input_error" *********
+******* element is_present - "form>div:nth-child(2) .input_error" *********
+******* clicked on - "[data-test="login-button"]" *********
+******* element is_clickable - "[data-test="login-button"]" *********
+******* all element visible - ".inventory_item_name" *********
+******* input on - ".input_error[name="user-name"]" *********
+******* element is_present - ".input_error[name="user-name"]" *********
+******* input on - "form>div:nth-child(2) .input_error" *********
+******* element is_present - "form>div:nth-child(2) .input_error" *********
+******* clicked on - "[data-test="login-button"]" *********
+******* element is_clickable - "[data-test="login-button"]" *********
+******* all element visible - ".inventory_item_name" *********
+******* input on - ".input_error[name="user-name"]" *********
+******* element is_present - ".input_error[name="user-name"]" *********
+******* input on - "form>div:nth-child(2) .input_error" *********
+******* element is_present - "form>div:nth-child(2) .input_error" *********
+******* clicked on - "[data-test="login-button"]" *********
+******* element is_clickable - "[data-test="login-button"]" *********
+******* all element visible - ".inventory_item_name" *********
+******* clicked on - ".btn.btn_primary" *********
+******* element is_clickable - ".btn.btn_primary" *********
+******* clicked on - ".shopping_cart_link" *********
+******* element is_clickable - ".shopping_cart_link" *********
+******* all element visible - ".inventory_item_name" *********
+******* input on - ".input_error[name="user-name"]" *********
+******* element is_present - ".input_error[name="user-name"]" *********
+******* input on - "form>div:nth-child(2) .input_error" *********
+******* element is_present - "form>div:nth-child(2) .input_error" *********
+******* clicked on - "[data-test="login-button"]" *********
+******* element is_clickable - "[data-test="login-button"]" *********
+******* all element visible - ".inventory_item_name" *********
+******* clicked on - ".btn.btn_primary" *********
+******* element is_clickable - ".btn.btn_primary" *********
+******* clicked on - ".shopping_cart_link" *********
+******* element is_clickable - ".shopping_cart_link" *********
+******* all element visible - ".inventory_item_name" *********
+******* input on - ".input_error[name="user-name"]" *********
+******* element is_present - ".input_error[name="user-name"]" *********
+******* input on - "form>div:nth-child(2) .input_error" *********
+******* element is_present - "form>div:nth-child(2) .input_error" *********
+******* clicked on - "[data-test="login-button"]" *********
+******* element is_clickable - "[data-test="login-button"]" *********
+******* all element visible - "#item_0_title_link" *********
+******* clicked on - ".btn.btn_primary" *********
+******* element is_clickable - ".btn.btn_primary" *********
+******* clicked on - ".shopping_cart_link" *********
+******* element is_clickable - ".shopping_cart_link" *********
+******* all element visible - "#item_0_title_link" *********
+******* input on - ".input_error[name="user-name"]" *********
+******* element is_present - ".input_error[name="user-name"]" *********
+******* input on - "form>div:nth-child(2) .input_error" *********
+******* element is_present - "form>div:nth-child(2) .input_error" *********
+******* clicked on - "[data-test="login-button"]" *********
+******* element is_clickable - "[data-test="login-button"]" *********
+******* all element visible - "#item_0_title_link" *********
+******* clicked on - ".btn.btn_primary" *********
+******* element is_clickable - ".btn.btn_primary" *********
+******* clicked on - ".shopping_cart_link" *********
+******* element is_clickable - ".shopping_cart_link" *********
+******* all element visible - "#item_0_title_link" *********
+******* input on - ".input_error[name="user-name"]" *********
+******* element is_present - ".input_error[name="user-name"]" *********
+******* input on - "form>div:nth-child(2) .input_error" *********
+******* element is_present - "form>div:nth-child(2) .input_error" *********
+******* clicked on - "[data-test="login-button"]" *********
+******* element is_clickable - "[data-test="login-button"]" *********
+******* all element visible - "#item_0_title_link" *********
+******* input on - ".input_error[name="user-name"]" *********
+******* element is_present - ".input_error[name="user-name"]" *********
+******* input on - "form>div:nth-child(2) .input_error" *********
+******* element is_present - "form>div:nth-child(2) .input_error" *********
+******* clicked on - "[data-test="login-button"]" *********
+******* element is_clickable - "[data-test="login-button"]" *********
+******* all element visible - ".inventory_item_name" *********
+******* input on - ".input_error[name="user-name"]" *********
+******* element is_present - ".input_error[name="user-name"]" *********
+******* input on - "form>div:nth-child(2) .input_error" *********
+******* element is_present - "form>div:nth-child(2) .input_error" *********
+******* clicked on - "[data-test="login-button"]" *********
+******* element is_clickable - "[data-test="login-button"]" *********
+******* all element visible - ".inventory_item_name" *********
+******* input on - ".input_error[name="user-name"]" *********
+******* element is_present - ".input_error[name="user-name"]" *********
+******* input on - "form>div:nth-child(2) .input_error" *********
+******* element is_present - "form>div:nth-child(2) .input_error" *********
+******* clicked on - "[data-test="login-button"]" *********
+******* element is_clickable - "[data-test="login-button"]" *********
+******* all element visible - ".inventory_item_name" *********
+******* input on - ".input_error[name="user-name"]" *********
+******* element is_present - ".input_error[name="user-name"]" *********
+******* input on - "form>div:nth-child(2) .input_error" *********
+******* element is_present - "form>div:nth-child(2) .input_error" *********
+******* clicked on - "[data-test="login-button"]" *********
+******* element is_clickable - "[data-test="login-button"]" *********
+******* all element visible - ".inventory_item_name" *********
+******* clicked on - ".btn.btn_primary" *********
+******* element is_clickable - ".btn.btn_primary" *********
+******* clicked on - ".shopping_cart_link" *********
+******* element is_clickable - ".shopping_cart_link" *********
+******* all element visible - ".inventory_item_name" *********
+******* input text in - ".inventory_item_name" *********
+******* element is_present - ".inventory_item_name" *********
+******* input on - ".input_error[name="user-name"]" *********
+******* element is_present - ".input_error[name="user-name"]" *********
+******* input on - "form>div:nth-child(2) .input_error" *********
+******* element is_present - "form>div:nth-child(2) .input_error" *********
+******* clicked on - "[data-test="login-button"]" *********
+******* element is_clickable - "[data-test="login-button"]" *********
+******* all element visible - ".inventory_item_name" *********
+******* input on - ".input_error[name="user-name"]" *********
+******* element is_present - ".input_error[name="user-name"]" *********
+******* input on - "form>div:nth-child(2) .input_error" *********
+******* element is_present - "form>div:nth-child(2) .input_error" *********
+******* clicked on - "[data-test="login-button"]" *********
+******* element is_clickable - "[data-test="login-button"]" *********
+******* all element visible - ".inventory_item_name" *********
+******* input on - ".input_error[name="user-name"]" *********
+******* element is_present - ".input_error[name="user-name"]" *********
+******* input on - "form>div:nth-child(2) .input_error" *********
+******* element is_present - "form>div:nth-child(2) .input_error" *********
+******* clicked on - "[data-test="login-button"]" *********
+******* element is_clickable - "[data-test="login-button"]" *********
+******* all element visible - ".inventory_item_name" *********
+******* input on - ".input_error[name="user-name"]" *********
+******* element is_present - ".input_error[name="user-name"]" *********
+******* input on - "form>div:nth-child(2) .input_error" *********
+******* element is_present - "form>div:nth-child(2) .input_error" *********
+******* clicked on - "[data-test="login-button"]" *********
+******* element is_clickable - "[data-test="login-button"]" *********
+******* all element visible - ".inventory_item_name" *********
+******* input on - ".input_error[name="user-name"]" *********
+******* element is_present - ".input_error[name="user-name"]" *********
+******* input on - "form>div:nth-child(2) .input_error" *********
+******* element is_present - "form>div:nth-child(2) .input_error" *********
+******* clicked on - "[data-test="login-button"]" *********
+******* element is_clickable - "[data-test="login-button"]" *********
+******* all element visible - ".inventory_item_name" *********
+******* clicked on - ".btn.btn_primary" *********
+******* element is_clickable - ".btn.btn_primary" *********
+******* clicked on - ".shopping_cart_link" *********
+******* element is_clickable - ".shopping_cart_link" *********
+******* all element visible - ".inventory_item_name" *********
+******* input text in - ".#item_0_title_link" *********
+******* element is_present - ".#item_0_title_link" *********
+******* input on - ".input_error[name="user-name"]" *********
+******* element is_present - ".input_error[name="user-name"]" *********
+******* input on - "form>div:nth-child(2) .input_error" *********
+******* element is_present - "form>div:nth-child(2) .input_error" *********
+******* clicked on - "[data-test="login-button"]" *********
+******* element is_clickable - "[data-test="login-button"]" *********
+******* all element visible - ".inventory_item_name" *********
+******* clicked on - ".btn.btn_primary" *********
+******* element is_clickable - ".btn.btn_primary" *********
+******* clicked on - ".shopping_cart_link" *********
+******* element is_clickable - ".shopping_cart_link" *********
+******* all element visible - ".inventory_item_name" *********
+******* input text in - ".inventory_item_name" *********
+******* element is_present - ".inventory_item_name" *********
+******* input on - ".input_error[name="user-name"]" *********
+******* element is_present - ".input_error[name="user-name"]" *********
+******* input on - "form>div:nth-child(2) .input_error" *********
+******* element is_present - "form>div:nth-child(2) .input_error" *********
+******* clicked on - "[data-test="login-button"]" *********
+******* element is_clickable - "[data-test="login-button"]" *********
+******* all element visible - ".inventory_item_name" *********
+******* clicked on - ".btn.btn_primary" *********
+******* element is_clickable - ".btn.btn_primary" *********
+******* clicked on - ".shopping_cart_link" *********
+******* element is_clickable - ".shopping_cart_link" *********
+******* input text in - ".inventory_item_name" *********
+******* element is_present - ".inventory_item_name" *********
+******* input on - ".input_error[name="user-name"]" *********
+******* element is_present - ".input_error[name="user-name"]" *********
+******* input on - "form>div:nth-child(2) .input_error" *********
+******* element is_present - "form>div:nth-child(2) .input_error" *********
+******* clicked on - "[data-test="login-button"]" *********
+******* element is_clickable - "[data-test="login-button"]" *********
+******* all element visible - ".inventory_item_name" *********
+******* input on - ".input_error[name="user-name"]" *********
+******* element is_present - ".input_error[name="user-name"]" *********
+******* input on - "form>div:nth-child(2) .input_error" *********
+******* element is_present - "form>div:nth-child(2) .input_error" *********
+******* clicked on - "[data-test="login-button"]" *********
+******* element is_clickable - "[data-test="login-button"]" *********
+******* all element visible - ".inventory_item_name" *********
+******* clicked on - ".btn.btn_primary" *********
+******* element is_clickable - ".btn.btn_primary" *********
+******* clicked on - ".shopping_cart_link" *********
+******* element is_clickable - ".shopping_cart_link" *********
+******* input text in - ".inventory_item_name" *********
+******* element is_present - ".inventory_item_name" *********
+******* input on - ".input_error[name="user-name"]" *********
+******* element is_present - ".input_error[name="user-name"]" *********
+******* input on - "form>div:nth-child(2) .input_error" *********
+******* element is_present - "form>div:nth-child(2) .input_error" *********
+******* clicked on - "[data-test="login-button"]" *********
+******* element is_clickable - "[data-test="login-button"]" *********
+******* all element visible - ".inventory_item_name" *********
+******* clicked on - ".btn.btn_primary" *********
+******* element is_clickable - ".btn.btn_primary" *********
+******* clicked on - ".shopping_cart_link" *********
+******* element is_clickable - ".shopping_cart_link" *********
+******* input text in - ".inventory_item_name" *********
+******* element is_present - ".inventory_item_name" *********
+******* input on - ".input_error[name="user-name"]" *********
+******* element is_present - ".input_error[name="user-name"]" *********
+******* input on - "form>div:nth-child(2) .input_error" *********
+******* element is_present - "form>div:nth-child(2) .input_error" *********
+******* clicked on - "[data-test="login-button"]" *********
+******* element is_clickable - "[data-test="login-button"]" *********
+******* all element visible - ".inventory_item_name" *********
+******* clicked on - ".btn.btn_primary" *********
+******* element is_clickable - ".btn.btn_primary" *********
+******* clicked on - ".shopping_cart_link" *********
+******* element is_clickable - ".shopping_cart_link" *********
+******* input text in - ".inventory_item_name" *********
+******* element is_present - ".inventory_item_name" *********
+******* input on - ".input_error[name="user-name"]" *********
+******* element is_present - ".input_error[name="user-name"]" *********
+******* input on - "form>div:nth-child(2) .input_error" *********
+******* element is_present - "form>div:nth-child(2) .input_error" *********
+******* clicked on - "[data-test="login-button"]" *********
+******* element is_clickable - "[data-test="login-button"]" *********
+******* all element visible - ".inventory_item_name" *********
+******* clicked on - ".btn.btn_primary" *********
+******* element is_clickable - ".btn.btn_primary" *********
+******* clicked on - ".shopping_cart_link" *********
+******* element is_clickable - ".shopping_cart_link" *********
+******* all element visible - ".inventory_item_name" *********
+******* input text in - ".inventory_item_name" *********
+******* element is_present - ".inventory_item_name" *********
+******* input on - ".input_error[name="user-name"]" *********
+******* element is_present - ".input_error[name="user-name"]" *********
+******* input on - "form>div:nth-child(2) .input_error" *********
+******* element is_present - "form>div:nth-child(2) .input_error" *********
+******* clicked on - "[data-test="login-button"]" *********
+******* element is_clickable - "[data-test="login-button"]" *********
+******* all element visible - ".inventory_item_name" *********
+******* input on - ".input_error[name="user-name"]" *********
+******* element is_present - ".input_error[name="user-name"]" *********
+******* input on - "form>div:nth-child(2) .input_error" *********
+******* element is_present - "form>div:nth-child(2) .input_error" *********
+******* clicked on - "[data-test="login-button"]" *********
+******* element is_clickable - "[data-test="login-button"]" *********
+******* all element visible - ".inventory_item_name" *********
+******* clicked on - ".btn.btn_primary" *********
+******* element is_clickable - ".btn.btn_primary" *********
+******* clicked on - ".shopping_cart_link" *********
+******* element is_clickable - ".shopping_cart_link" *********
+******* all element visible - ".inventory_item_name" *********
+******* input text in - ".inventory_item_name" *********
+******* element is_present - ".inventory_item_name" *********
+******* input on - ".input_error[name="user-name"]" *********
+******* element is_present - ".input_error[name="user-name"]" *********
+******* input on - "form>div:nth-child(2) .input_error" *********
+******* element is_present - "form>div:nth-child(2) .input_error" *********
+******* clicked on - "[data-test="login-button"]" *********
+******* element is_clickable - "[data-test="login-button"]" *********
+******* all element visible - ".inventory_item_name" *********
+******* clicked on - ".btn.btn_primary" *********
+******* element is_clickable - ".btn.btn_primary" *********
+******* clicked on - ".shopping_cart_link" *********
+******* element is_clickable - ".shopping_cart_link" *********
+******* input text in - ".inventory_item_name" *********
+******* element is_present - ".inventory_item_name" *********
+******* input on - ".input_error[name="user-name"]" *********
+******* element is_present - ".input_error[name="user-name"]" *********
+******* input on - "form>div:nth-child(2) .input_error" *********
+******* element is_present - "form>div:nth-child(2) .input_error" *********
+******* clicked on - "[data-test="login-button"]" *********
+******* element is_clickable - "[data-test="login-button"]" *********
+******* all element visible - ".inventory_item_name" *********
+******* clicked on - ".btn.btn_primary" *********
+******* element is_clickable - ".btn.btn_primary" *********
+******* clicked on - ".shopping_cart_link" *********
+******* element is_clickable - ".shopping_cart_link" *********
+******* input text in - ".inventory_item_name" *********
+******* element is_present - ".inventory_item_name" *********
+******* input on - ".input_error[name="user-name"]" *********
+******* element is_present - ".input_error[name="user-name"]" *********
+******* input on - "form>div:nth-child(2) .input_error" *********
+******* element is_present - "form>div:nth-child(2) .input_error" *********
+******* clicked on - "[data-test="login-button"]" *********
+******* element is_clickable - "[data-test="login-button"]" *********
+******* input on - ".input_error[name="user-name"]" *********
+******* element is_present - ".input_error[name="user-name"]" *********
+******* input on - "form>div:nth-child(2) .input_error" *********
+******* element is_present - "form>div:nth-child(2) .input_error" *********
+******* clicked on - "[data-test="login-button"]" *********
+******* element is_clickable - "[data-test="login-button"]" *********
+******* all element visible - ".inventory_item_name" *********
+******* input text in - ".shopping_cart_badge" *********
+******* element is_present - ".shopping_cart_badge" *********
+******* input on - ".input_error[name="user-name"]" *********
+******* element is_present - ".input_error[name="user-name"]" *********
+******* input on - "form>div:nth-child(2) .input_error" *********
+******* element is_present - "form>div:nth-child(2) .input_error" *********
+******* clicked on - "[data-test="login-button"]" *********
+******* element is_clickable - "[data-test="login-button"]" *********
+******* all element visible - ".inventory_item_name" *********
+******* input text in - ".shopping_cart_badge" *********
+******* element is_present - ".shopping_cart_badge" *********
+******* input on - ".input_error[name="user-name"]" *********
+******* element is_present - ".input_error[name="user-name"]" *********
+******* input on - "form>div:nth-child(2) .input_error" *********
+******* element is_present - "form>div:nth-child(2) .input_error" *********
+******* clicked on - "[data-test="login-button"]" *********
+******* element is_clickable - "[data-test="login-button"]" *********
+******* all element visible - ".inventory_item_name" *********
+******* clicked on - ".btn.btn_primary" *********
+******* element is_clickable - ".btn.btn_primary" *********
+******* input text in - ".shopping_cart_badge" *********
+******* element is_present - ".shopping_cart_badge" *********
+******* input on - ".input_error[name="user-name"]" *********
+******* element is_present - ".input_error[name="user-name"]" *********
+******* input on - "form>div:nth-child(2) .input_error" *********
+******* element is_present - "form>div:nth-child(2) .input_error" *********
+******* clicked on - "[data-test="login-button"]" *********
+******* element is_clickable - "[data-test="login-button"]" *********
+******* select dropdown - ".product_sort_container" *********
+******* element is_present - ".product_sort_container" *********
+******* all element visible - ".inventory_item_price" *********
+******* all element visible - ".inventory_item_price" *********
+******* input on - ".input_error[name="user-name"]" *********
+******* element is_present - ".input_error[name="user-name"]" *********
+******* input on - "form>div:nth-child(2) .input_error" *********
+******* element is_present - "form>div:nth-child(2) .input_error" *********
+******* clicked on - "[data-test="login-button"]" *********
+******* element is_clickable - "[data-test="login-button"]" *********
+******* select dropdown - ".product_sort_container" *********
+******* element is_present - ".product_sort_container" *********
+******* all element visible - ".inventory_item_price" *********
+******* all element visible - ".inventory_item_price" *********
+******* input on - ".input_error[name="user-name"]" *********
+******* element is_present - ".input_error[name="user-name"]" *********
+******* input on - "form>div:nth-child(2) .input_error" *********
+******* element is_present - "form>div:nth-child(2) .input_error" *********
+******* clicked on - "[data-test="login-button"]" *********
+******* element is_clickable - "[data-test="login-button"]" *********
+******* select dropdown - ".product_sort_container" *********
+******* element is_present - ".product_sort_container" *********
+******* all element visible - ".inventory_item_price" *********
+******* all element visible - ".inventory_item_price" *********
+******* input on - ".input_error[name="user-name"]" *********
+******* element is_present - ".input_error[name="user-name"]" *********
+******* input on - "form>div:nth-child(2) .input_error" *********
+******* element is_present - "form>div:nth-child(2) .input_error" *********
+******* clicked on - "[data-test="login-button"]" *********
+******* element is_clickable - "[data-test="login-button"]" *********
+******* select dropdown - ".product_sort_container" *********
+******* element is_present - ".product_sort_container" *********
+******* all element visible - ".inventory_item_price" *********
+******* all element visible - ".inventory_item_price" *********
+******* input on - ".input_error[name="user-name"]" *********
+******* element is_present - ".input_error[name="user-name"]" *********
+******* input on - "form>div:nth-child(2) .input_error" *********
+******* element is_present - "form>div:nth-child(2) .input_error" *********
+******* clicked on - "[data-test="login-button"]" *********
+******* element is_clickable - "[data-test="login-button"]" *********
+******* select dropdown - ".product_sort_container" *********
+******* element is_present - ".product_sort_container" *********
+******* all element visible - ".inventory_item_price" *********
+******* all element visible - ".inventory_item_price" *********
+******* input on - ".input_error[name="user-name"]" *********
+******* element is_present - ".input_error[name="user-name"]" *********
+******* input on - "form>div:nth-child(2) .input_error" *********
+******* element is_present - "form>div:nth-child(2) .input_error" *********
+******* clicked on - "[data-test="login-button"]" *********
+******* element is_clickable - "[data-test="login-button"]" *********
+******* select dropdown - ".product_sort_container" *********
+******* element is_present - ".product_sort_container" *********
+******* all element visible - ".inventory_item_price" *********
+******* all element visible - ".inventory_item_price" *********
+******* input on - ".input_error[name="user-name"]" *********
+******* element is_present - ".input_error[name="user-name"]" *********
+******* input on - "form>div:nth-child(2) .input_error" *********
+******* element is_present - "form>div:nth-child(2) .input_error" *********
+******* clicked on - "[data-test="login-button"]" *********
+******* element is_clickable - "[data-test="login-button"]" *********
+******* select dropdown - ".product_sort_container" *********
+******* element is_present - ".product_sort_container" *********
+******* all element visible - ".inventory_item_price" *********
+******* all element visible - ".inventory_item_price" *********
+******* input on - ".input_error[name="user-name"]" *********
+******* element is_present - ".input_error[name="user-name"]" *********
+******* input on - "form>div:nth-child(2) .input_error" *********
+******* element is_present - "form>div:nth-child(2) .input_error" *********
+******* clicked on - "[data-test="login-button"]" *********
+******* element is_clickable - "[data-test="login-button"]" *********
+******* select dropdown - ".product_sort_container" *********
+******* element is_present - ".product_sort_container" *********
+******* all element visible - ".inventory_item_price" *********
+******* all element visible - ".inventory_item_price" *********
+******* input on - ".input_error[name="user-name"]" *********
+******* element is_present - ".input_error[name="user-name"]" *********
+******* input on - "form>div:nth-child(2) .input_error" *********
+******* element is_present - "form>div:nth-child(2) .input_error" *********
+******* clicked on - "[data-test="login-button"]" *********
+******* element is_clickable - "[data-test="login-button"]" *********
+******* select dropdown - ".product_sort_container" *********
+******* element is_present - ".product_sort_container" *********
+******* all element visible - ".inventory_item_price" *********
+******* all element visible - ".inventory_item_price" *********
+******* input on - ".input_error[name="user-name"]" *********
+******* element is_present - ".input_error[name="user-name"]" *********
+******* input on - "form>div:nth-child(2) .input_error" *********
+******* element is_present - "form>div:nth-child(2) .input_error" *********
+******* clicked on - "[data-test="login-button"]" *********
+******* element is_clickable - "[data-test="login-button"]" *********
+******* select dropdown - ".product_sort_container" *********
+******* element is_present - ".product_sort_container" *********
+******* all element visible - ".inventory_item_price" *********
+******* all element visible - ".inventory_item_price" *********
+******* input on - ".input_error[name="user-name"]" *********
+******* element is_present - ".input_error[name="user-name"]" *********
+******* input on - "form>div:nth-child(2) .input_error" *********
+******* element is_present - "form>div:nth-child(2) .input_error" *********
+******* clicked on - "[data-test="login-button"]" *********
+******* element is_clickable - "[data-test="login-button"]" *********
+******* select dropdown - ".product_sort_container" *********
+******* element is_present - ".product_sort_container" *********
+******* all element visible - ".inventory_item_price" *********
+******* all element visible - ".inventory_item_price" *********
+******* input on - ".input_error[name="user-name"]" *********
+******* element is_present - ".input_error[name="user-name"]" *********
+******* input on - "form>div:nth-child(2) .input_error" *********
+******* element is_present - "form>div:nth-child(2) .input_error" *********
+******* clicked on - "[data-test="login-button"]" *********
+******* element is_clickable - "[data-test="login-button"]" *********
+******* select dropdown - ".product_sort_container" *********
+******* element is_present - ".product_sort_container" *********
+******* all element visible - ".inventory_item_price" *********
+******* all element visible - ".inventory_item_price" *********
+******* input on - ".input_error[name="user-name"]" *********
+******* element is_present - ".input_error[name="user-name"]" *********
+******* input on - "form>div:nth-child(2) .input_error" *********
+******* element is_present - "form>div:nth-child(2) .input_error" *********
+******* clicked on - "[data-test="login-button"]" *********
+******* element is_clickable - "[data-test="login-button"]" *********
+******* all element visible - ".inventory_item_name" *********
+******* input on - ".input_error[name="user-name"]" *********
+******* element is_present - ".input_error[name="user-name"]" *********
+******* input on - "form>div:nth-child(2) .input_error" *********
+******* element is_present - "form>div:nth-child(2) .input_error" *********
+******* clicked on - "[data-test="login-button"]" *********
+******* element is_clickable - "[data-test="login-button"]" *********
+******* select dropdown - ".product_sort_container" *********
+******* element is_present - ".product_sort_container" *********
+******* all element visible - ".inventory_item_price" *********
+******* all element visible - ".inventory_item_price" *********
+******* input on - ".input_error[name="user-name"]" *********
+******* element is_present - ".input_error[name="user-name"]" *********
+******* input on - "form>div:nth-child(2) .input_error" *********
+******* element is_present - "form>div:nth-child(2) .input_error" *********
+******* clicked on - "[data-test="login-button"]" *********
+******* element is_clickable - "[data-test="login-button"]" *********
+******* select dropdown - ".product_sort_container" *********
+******* element is_present - ".product_sort_container" *********
+******* all element visible - ".inventory_item_price" *********
+******* all element visible - ".inventory_item_price" *********
+******* input on - ".input_error[name="user-name"]" *********
+******* element is_present - ".input_error[name="user-name"]" *********
+******* input on - "form>div:nth-child(2) .input_error" *********
+******* element is_present - "form>div:nth-child(2) .input_error" *********
+******* clicked on - "[data-test="login-button"]" *********
+******* element is_clickable - "[data-test="login-button"]" *********
+******* select dropdown - ".product_sort_container" *********
+******* element is_present - ".product_sort_container" *********
+******* all element visible - ".inventory_item_price" *********
+******* all element visible - ".inventory_item_price" *********
+******* input on - ".input_error[name="user-name"]" *********
+******* element is_present - ".input_error[name="user-name"]" *********
+******* input on - "form>div:nth-child(2) .input_error" *********
+******* element is_present - "form>div:nth-child(2) .input_error" *********
+******* clicked on - "[data-test="login-button"]" *********
+******* element is_clickable - "[data-test="login-button"]" *********
+******* select dropdown - ".product_sort_container" *********
+******* element is_present - ".product_sort_container" *********
+******* all element visible - ".inventory_item_price" *********
+******* all element visible - ".inventory_item_price" *********
+******* input on - ".input_error[name="user-name"]" *********
+******* element is_present - ".input_error[name="user-name"]" *********
+******* input on - "form>div:nth-child(2) .input_error" *********
+******* element is_present - "form>div:nth-child(2) .input_error" *********
+******* clicked on - "[data-test="login-button"]" *********
+******* element is_clickable - "[data-test="login-button"]" *********
+******* select dropdown - ".product_sort_container" *********
+******* element is_present - ".product_sort_container" *********
+******* all element visible - ".inventory_item_price" *********
+******* all element visible - ".inventory_item_price" *********
+******* all element visible - ".inventory_item_price" *********
+******* input on - ".input_error[name="user-name"]" *********
+******* element is_present - ".input_error[name="user-name"]" *********
+******* input on - "form>div:nth-child(2) .input_error" *********
+******* element is_present - "form>div:nth-child(2) .input_error" *********
+******* clicked on - "[data-test="login-button"]" *********
+******* element is_clickable - "[data-test="login-button"]" *********
+******* select dropdown - ".product_sort_container" *********
+******* element is_present - ".product_sort_container" *********
+******* all element visible - ".inventory_item_price" *********
+******* all element visible - ".inventory_item_price" *********
+******* all element visible - ".inventory_item_price" *********
+******* input on - ".input_error[name="user-name"]" *********
+******* element is_present - ".input_error[name="user-name"]" *********
+******* input on - "form>div:nth-child(2) .input_error" *********
+******* element is_present - "form>div:nth-child(2) .input_error" *********
+******* clicked on - "[data-test="login-button"]" *********
+******* element is_clickable - "[data-test="login-button"]" *********
+******* select dropdown - ".product_sort_container" *********
+******* element is_present - ".product_sort_container" *********
+******* all element visible - ".inventory_item_price" *********
+******* all element visible - ".inventory_item_price" *********
+******* input on - ".input_error[name="user-name"]" *********
+******* element is_present - ".input_error[name="user-name"]" *********
+******* input on - "form>div:nth-child(2) .input_error" *********
+******* element is_present - "form>div:nth-child(2) .input_error" *********
+******* clicked on - "[data-test="login-button"]" *********
+******* element is_clickable - "[data-test="login-button"]" *********
+******* select dropdown - ".product_sort_container" *********
+******* element is_present - ".product_sort_container" *********
+******* all element visible - ".inventory_item_price" *********
+******* all element visible - ".inventory_item_price" *********
+******* input on - ".input_error[name="user-name"]" *********
+******* element is_present - ".input_error[name="user-name"]" *********
+******* input on - "form>div:nth-child(2) .input_error" *********
+******* element is_present - "form>div:nth-child(2) .input_error" *********
+******* clicked on - "[data-test="login-button"]" *********
+******* element is_clickable - "[data-test="login-button"]" *********
+******* select dropdown - ".product_sort_container" *********
+******* element is_present - ".product_sort_container" *********
+******* all element visible - ".inventory_item_price" *********
+******* all element visible - ".inventory_item_price" *********
+******* input on - ".input_error[name="user-name"]" *********
+******* element is_present - ".input_error[name="user-name"]" *********
+******* input on - "form>div:nth-child(2) .input_error" *********
+******* element is_present - "form>div:nth-child(2) .input_error" *********
+******* clicked on - "[data-test="login-button"]" *********
+******* element is_clickable - "[data-test="login-button"]" *********
+******* select dropdown - ".product_sort_container" *********
+******* element is_present - ".product_sort_container" *********
+******* all element visible - ".inventory_item_price" *********
+******* all element visible - ".inventory_item_price" *********
+******* input on - ".input_error[name="user-name"]" *********
+******* element is_present - ".input_error[name="user-name"]" *********
+******* input on - "form>div:nth-child(2) .input_error" *********
+******* element is_present - "form>div:nth-child(2) .input_error" *********
+******* clicked on - "[data-test="login-button"]" *********
+******* element is_clickable - "[data-test="login-button"]" *********
+******* select dropdown - ".product_sort_container" *********
+******* element is_present - ".product_sort_container" *********
+******* all element visible - ".inventory_item_price" *********
+******* all element visible - ".inventory_item_price" *********
+******* input on - ".input_error[name="user-name"]" *********
+******* element is_present - ".input_error[name="user-name"]" *********
+******* input on - "form>div:nth-child(2) .input_error" *********
+******* element is_present - "form>div:nth-child(2) .input_error" *********
+******* clicked on - "[data-test="login-button"]" *********
+******* element is_clickable - "[data-test="login-button"]" *********
+******* select dropdown - ".product_sort_container" *********
+******* element is_present - ".product_sort_container" *********
+******* all element visible - ".inventory_item_price" *********
+******* all element visible - ".inventory_item_price" *********
+******* input on - ".input_error[name="user-name"]" *********
+******* element is_present - ".input_error[name="user-name"]" *********
+******* input on - "form>div:nth-child(2) .input_error" *********
+******* element is_present - "form>div:nth-child(2) .input_error" *********
+******* clicked on - "[data-test="login-button"]" *********
+******* element is_clickable - "[data-test="login-button"]" *********
+******* select dropdown - ".product_sort_container" *********
+******* element is_present - ".product_sort_container" *********
+******* all element visible - ".inventory_item_price" *********
+******* all element visible - ".inventory_item_price" *********
+******* input on - ".input_error[name="user-name"]" *********
+******* element is_present - ".input_error[name="user-name"]" *********
+******* input on - "form>div:nth-child(2) .input_error" *********
+******* element is_present - "form>div:nth-child(2) .input_error" *********
+******* clicked on - "[data-test="login-button"]" *********
+******* element is_clickable - "[data-test="login-button"]" *********
+******* select dropdown - ".product_sort_container" *********
+******* element is_present - ".product_sort_container" *********
+******* all element visible - ".inventory_item_price" *********
+******* all element visible - ".inventory_item_price" *********
+******* input on - ".input_error[name="user-name"]" *********
+******* element is_present - ".input_error[name="user-name"]" *********
+******* input on - "form>div:nth-child(2) .input_error" *********
+******* element is_present - "form>div:nth-child(2) .input_error" *********
+******* clicked on - "[data-test="login-button"]" *********
+******* element is_clickable - "[data-test="login-button"]" *********
+******* select dropdown - ".product_sort_container" *********
+******* element is_present - ".product_sort_container" *********
+******* all element visible - ".inventory_item_price" *********
+******* all element visible - ".inventory_item_price" *********
+******* input on - ".input_error[name="user-name"]" *********
+******* element is_present - ".input_error[name="user-name"]" *********
+******* input on - "form>div:nth-child(2) .input_error" *********
+******* element is_present - "form>div:nth-child(2) .input_error" *********
+******* clicked on - "[data-test="login-button"]" *********
+******* element is_clickable - "[data-test="login-button"]" *********
+******* select dropdown - ".product_sort_container" *********
+******* element is_present - ".product_sort_container" *********
+******* all element visible - ".inventory_item_price" *********
+******* all element visible - ".inventory_item_price" *********
+******* input on - ".input_error[name="user-name"]" *********
+******* element is_present - ".input_error[name="user-name"]" *********
+******* input on - "form>div:nth-child(2) .input_error" *********
+******* element is_present - "form>div:nth-child(2) .input_error" *********
+******* clicked on - "[data-test="login-button"]" *********
+******* element is_clickable - "[data-test="login-button"]" *********
+******* input on - ".input_error[name="user-name"]" *********
+******* element is_present - ".input_error[name="user-name"]" *********
+******* input on - "form>div:nth-child(2) .input_error" *********
+******* element is_present - "form>div:nth-child(2) .input_error" *********
+******* clicked on - "[data-test="login-button"]" *********
+******* element is_clickable - "[data-test="login-button"]" *********
+******* input on - ".input_error[name="user-name"]" *********
+******* element is_present - ".input_error[name="user-name"]" *********
+******* input on - "form>div:nth-child(2) .input_error" *********
+******* element is_present - "form>div:nth-child(2) .input_error" *********
+******* clicked on - "[data-test="login-button"]" *********
+******* element is_clickable - "[data-test="login-button"]" *********
+******* input on - ".input_error[name="user-name"]" *********
+******* element is_present - ".input_error[name="user-name"]" *********
+******* input on - "form>div:nth-child(2) .input_error" *********
+******* element is_present - "form>div:nth-child(2) .input_error" *********
+******* clicked on - "[data-test="login-button"]" *********
+******* element is_clickable - "[data-test="login-button"]" *********
+******* input on - ".input_error[name="user-name"]" *********
+******* element is_present - ".input_error[name="user-name"]" *********
+******* input on - "form>div:nth-child(2) .input_error" *********
+******* element is_present - "form>div:nth-child(2) .input_error" *********
+******* clicked on - "[data-test="login-button"]" *********
+******* element is_clickable - "[data-test="login-button"]" *********
+******* select dropdown - ".product_sort_container" *********
+******* element is_present - ".product_sort_container" *********
+******* all element visible - ".inventory_item_price" *********
+******* all element visible - ".inventory_item_price" *********
+******* input on - ".input_error[name="user-name"]" *********
+******* element is_present - ".input_error[name="user-name"]" *********
+******* input on - "form>div:nth-child(2) .input_error" *********
+******* element is_present - "form>div:nth-child(2) .input_error" *********
+******* clicked on - "[data-test="login-button"]" *********
+******* element is_clickable - "[data-test="login-button"]" *********
+******* select dropdown - ".product_sort_container" *********
+******* element is_present - ".product_sort_container" *********
+******* all element visible - ".inventory_item_price" *********
+******* all element visible - ".inventory_item_price" *********
+******* input on - ".input_error[name="user-name"]" *********
+******* element is_present - ".input_error[name="user-name"]" *********
+******* input on - "form>div:nth-child(2) .input_error" *********
+******* element is_present - "form>div:nth-child(2) .input_error" *********
+******* clicked on - "[data-test="login-button"]" *********
+******* element is_clickable - "[data-test="login-button"]" *********
+******* input on - ".input_error[name="user-name"]" *********
+******* element is_present - ".input_error[name="user-name"]" *********
+******* input on - "form>div:nth-child(2) .input_error" *********
+******* element is_present - "form>div:nth-child(2) .input_error" *********
+******* clicked on - "[data-test="login-button"]" *********
+******* element is_clickable - "[data-test="login-button"]" *********
+******* input on - ".input_error[name="user-name"]" *********
+******* element is_present - ".input_error[name="user-name"]" *********
+******* input on - "form>div:nth-child(2) .input_error" *********
+******* element is_present - "form>div:nth-child(2) .input_error" *********
+******* clicked on - "[data-test="login-button"]" *********
+******* element is_clickable - "[data-test="login-button"]" *********
+******* input on - ".input_error[name="user-name"]" *********
+******* element is_present - ".input_error[name="user-name"]" *********
+******* input on - "form>div:nth-child(2) .input_error" *********
+******* element is_present - "form>div:nth-child(2) .input_error" *********
+******* clicked on - "[data-test="login-button"]" *********
+******* element is_clickable - "[data-test="login-button"]" *********
+******* select dropdown - ".product_sort_container" *********
+******* element is_present - ".product_sort_container" *********
+******* all element visible - ".inventory_item_price" *********
+******* all element visible - ".inventory_item_price" *********
+******* input on - ".input_error[name="user-name"]" *********
+******* element is_present - ".input_error[name="user-name"]" *********
+******* input on - "form>div:nth-child(2) .input_error" *********
+******* element is_present - "form>div:nth-child(2) .input_error" *********
+******* clicked on - "[data-test="login-button"]" *********
+******* element is_clickable - "[data-test="login-button"]" *********
+******* select dropdown - ".product_sort_container" *********
+******* element is_present - ".product_sort_container" *********
+******* all element visible - ".inventory_item_name" *********
+******* all element visible - ".inventory_item_price" *********
+******* input on - ".input_error[name="user-name"]" *********
+******* element is_present - ".input_error[name="user-name"]" *********
+******* input on - "form>div:nth-child(2) .input_error" *********
+******* element is_present - "form>div:nth-child(2) .input_error" *********
+******* clicked on - "[data-test="login-button"]" *********
+******* element is_clickable - "[data-test="login-button"]" *********
+******* select dropdown - ".product_sort_container" *********
+******* element is_present - ".product_sort_container" *********
+******* all element visible - ".inventory_item_name" *********
+******* all element visible - ".inventory_item_name" *********
+******* input on - ".input_error[name="user-name"]" *********
+******* element is_present - ".input_error[name="user-name"]" *********
+******* input on - "form>div:nth-child(2) .input_error" *********
+******* element is_present - "form>div:nth-child(2) .input_error" *********
+******* clicked on - "[data-test="login-button"]" *********
+******* element is_clickable - "[data-test="login-button"]" *********
+******* select dropdown - ".product_sort_container" *********
+******* element is_present - ".product_sort_container" *********
+******* all element visible - ".inventory_item_name" *********
+******* all element visible - ".inventory_item_price" *********
+******* input on - ".input_error[name="user-name"]" *********
+******* element is_present - ".input_error[name="user-name"]" *********
+******* input on - "form>div:nth-child(2) .input_error" *********
+******* element is_present - "form>div:nth-child(2) .input_error" *********
+******* clicked on - "[data-test="login-button"]" *********
+******* element is_clickable - "[data-test="login-button"]" *********
+******* select dropdown - ".product_sort_container" *********
+******* element is_present - ".product_sort_container" *********
+******* all element visible - ".inventory_item_name" *********
+******* all element visible - ".inventory_item_price" *********
+******* input on - ".input_error[name="user-name"]" *********
+******* element is_present - ".input_error[name="user-name"]" *********
+******* input on - "form>div:nth-child(2) .input_error" *********
+******* element is_present - "form>div:nth-child(2) .input_error" *********
+******* clicked on - "[data-test="login-button"]" *********
+******* element is_clickable - "[data-test="login-button"]" *********
+******* select dropdown - ".product_sort_container" *********
+******* element is_present - ".product_sort_container" *********
+******* all element visible - ".inventory_item_name" *********
+******* all element visible - ".inventory_item_name" *********
+******* input on - ".input_error[name="user-name"]" *********
+******* element is_present - ".input_error[name="user-name"]" *********
+******* input on - "form>div:nth-child(2) .input_error" *********
+******* element is_present - "form>div:nth-child(2) .input_error" *********
+******* clicked on - "[data-test="login-button"]" *********
+******* element is_clickable - "[data-test="login-button"]" *********
+******* select dropdown - ".product_sort_container" *********
+******* element is_present - ".product_sort_container" *********
+******* all element visible - ".inventory_item_name" *********
+******* all element visible - ".inventory_item_name" *********
+******* input on - ".input_error[name="user-name"]" *********
+******* element is_present - ".input_error[name="user-name"]" *********
+******* input on - "form>div:nth-child(2) .input_error" *********
+******* element is_present - "form>div:nth-child(2) .input_error" *********
+******* clicked on - "[data-test="login-button"]" *********
+******* element is_clickable - "[data-test="login-button"]" *********
+******* select dropdown - ".product_sort_container" *********
+******* element is_present - ".product_sort_container" *********
+******* all element visible - ".inventory_item_name" *********
+******* all element visible - ".inventory_item_name" *********
+******* input on - ".input_error[name="user-name"]" *********
+******* element is_present - ".input_error[name="user-name"]" *********
+******* input on - "form>div:nth-child(2) .input_error" *********
+******* element is_present - "form>div:nth-child(2) .input_error" *********
+******* clicked on - "[data-test="login-button"]" *********
+******* element is_clickable - "[data-test="login-button"]" *********
+******* select dropdown - ".product_sort_container" *********
+******* element is_present - ".product_sort_container" *********
+******* all element visible - ".inventory_item_name" *********
+******* all element visible - ".inventory_item_name" *********
+******* input on - ".input_error[name="user-name"]" *********
+******* element is_present - ".input_error[name="user-name"]" *********
+******* input on - "form>div:nth-child(2) .input_error" *********
+******* element is_present - "form>div:nth-child(2) .input_error" *********
+******* clicked on - "[data-test="login-button"]" *********
+******* element is_clickable - "[data-test="login-button"]" *********
+******* select dropdown - ".product_sort_container" *********
+******* element is_present - ".product_sort_container" *********
+******* all element visible - ".inventory_item_name" *********
+******* all element visible - ".inventory_item_name" *********
+******* input on - ".input_error[name="user-name"]" *********
+******* element is_present - ".input_error[name="user-name"]" *********
+******* input on - "form>div:nth-child(2) .input_error" *********
+******* element is_present - "form>div:nth-child(2) .input_error" *********
+******* clicked on - "[data-test="login-button"]" *********
+******* element is_clickable - "[data-test="login-button"]" *********
+******* select dropdown - ".product_sort_container" *********
+******* element is_present - ".product_sort_container" *********
+******* all element visible - ".inventory_item_price" *********
+******* all element visible - ".inventory_item_price" *********
+******* input on - ".input_error[name="user-name"]" *********
+******* element is_present - ".input_error[name="user-name"]" *********
+******* input on - "form>div:nth-child(2) .input_error" *********
+******* element is_present - "form>div:nth-child(2) .input_error" *********
+******* clicked on - "[data-test="login-button"]" *********
+******* element is_clickable - "[data-test="login-button"]" *********
+******* select dropdown - ".product_sort_container" *********
+******* element is_present - ".product_sort_container" *********
+******* input on - ".input_error[name="user-name"]" *********
+******* element is_present - ".input_error[name="user-name"]" *********
+******* input on - "form>div:nth-child(2) .input_error" *********
+******* element is_present - "form>div:nth-child(2) .input_error" *********
+******* clicked on - "[data-test="login-button"]" *********
+******* element is_clickable - "[data-test="login-button"]" *********
+******* select dropdown - ".product_sort_container" *********
+******* element is_present - ".product_sort_container" *********
+******* all element visible - ".inventory_item_price" *********
+******* all element visible - ".inventory_item_price" *********
+******* input on - ".input_error[name="user-name"]" *********
+******* element is_present - ".input_error[name="user-name"]" *********
+******* input on - "form>div:nth-child(2) .input_error" *********
+******* element is_present - "form>div:nth-child(2) .input_error" *********
+******* clicked on - "[data-test="login-button"]" *********
+******* element is_clickable - "[data-test="login-button"]" *********
+******* all element visible - ".inventory_item_name" *********
+******* input on - ".input_error[name="user-name"]" *********
+******* element is_present - ".input_error[name="user-name"]" *********
+******* input on - "form>div:nth-child(2) .input_error" *********
+******* element is_present - "form>div:nth-child(2) .input_error" *********
+******* clicked on - "[data-test="login-button"]" *********
+******* element is_clickable - "[data-test="login-button"]" *********
+******* all element visible - ".inventory_item_name" *********
+******* clicked on - ".btn.btn_primary" *********
+******* element is_clickable - ".btn.btn_primary" *********
+******* clicked on - ".shopping_cart_link" *********
+******* element is_clickable - ".shopping_cart_link" *********
+******* input text in - ".inventory_item_name" *********
+******* element is_present - ".inventory_item_name" *********
+******* input on - ".input_error[name="user-name"]" *********
+******* element is_present - ".input_error[name="user-name"]" *********
+******* input on - "form>div:nth-child(2) .input_error" *********
+******* element is_present - "form>div:nth-child(2) .input_error" *********
+******* clicked on - "[data-test="login-button"]" *********
+******* element is_clickable - "[data-test="login-button"]" *********
+******* all element visible - ".inventory_item_name" *********
+******* clicked on - ".btn.btn_primary" *********
+******* element is_clickable - ".btn.btn_primary" *********
+******* clicked on - ".shopping_cart_link" *********
+******* element is_clickable - ".shopping_cart_link" *********
+******* input text in - ".inventory_item_name" *********
+******* element is_present - ".inventory_item_name" *********
+******* input on - ".input_error[name="user-name"]" *********
+******* element is_present - ".input_error[name="user-name"]" *********
+******* input on - "form>div:nth-child(2) .input_error" *********
+******* element is_present - "form>div:nth-child(2) .input_error" *********
+******* clicked on - "[data-test="login-button"]" *********
+******* element is_clickable - "[data-test="login-button"]" *********
+******* all element visible - ".inventory_item_name" *********
+******* clicked on - ".btn.btn_primary" *********
+******* element is_clickable - ".btn.btn_primary" *********
+******* input text in - ".shopping_cart_badge" *********
+******* element is_present - ".shopping_cart_badge" *********

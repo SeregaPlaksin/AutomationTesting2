@@ -5,8 +5,10 @@ from selenium.webdriver.chrome.options import Options as chrome_options
 from selenium.webdriver.chrome.service import Service
 from webdriver_manager.chrome import ChromeDriverManager
 
-from pom.index_page import AuthPage
 from pom.main_page import *
+from pom.auth_page import *
+from pom.sort_page import *
+from pom.shopping_cart_page import *
 import time
 
 
@@ -65,7 +67,8 @@ def main_page(setup_auth):
 
 @pytest.fixture
 def sort_page(setup_auth):
-    yield Sorted(setup_auth)
+    yield SortedPrice(setup_auth)
+
 
 
 @pytest.fixture

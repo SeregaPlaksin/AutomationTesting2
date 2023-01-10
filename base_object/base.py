@@ -1,6 +1,4 @@
 from typing import List
-
-from base_object.locators import Locators
 from utilities.logger import *
 import logging as log
 

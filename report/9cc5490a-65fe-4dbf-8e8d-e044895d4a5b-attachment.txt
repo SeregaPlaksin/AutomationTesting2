@@ -1,3 +1,0 @@
-[32mINFO    [0m BaseObject:base.py:50 element clicked
-[32mINFO    [0m BaseObject:base.py:50 element clicked
-[32mINFO    [0m BaseObject:base.py:50 element clicked
